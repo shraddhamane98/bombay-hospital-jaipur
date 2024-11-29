@@ -1,0 +1,12 @@
+[22-Aug-2024 09:40:21 UTC] PHP Warning:  require(/home/draparnakhamatka/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/draparnakhamatka/public_html/public/index.php on line 34
+[22-Aug-2024 09:40:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/draparnakhamatka/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/draparnakhamatka/public_html/public/index.php:34
+Stack trace:
+#0 /home/draparnakhamatka/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/draparnakhamatka/public_html/public/index.php on line 34
+[22-Aug-2024 09:40:26 UTC] PHP Warning:  require(/home/draparnakhamatka/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/draparnakhamatka/public_html/public/index.php on line 34
+[22-Aug-2024 09:40:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/draparnakhamatka/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/draparnakhamatka/public_html/public/index.php:34
+Stack trace:
+#0 /home/draparnakhamatka/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/draparnakhamatka/public_html/public/index.php on line 34

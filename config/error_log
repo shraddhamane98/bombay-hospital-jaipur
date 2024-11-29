@@ -1,0 +1,28 @@
+[21-Jul-2024 20:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/cache.php on line 18
+[29-Jul-2024 07:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/cache.php on line 18
+[30-Jul-2024 03:36:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/cache.php on line 18
+[09-Aug-2024 10:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/database.php on line 18
+[09-Aug-2024 10:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/database.php on line 18
+[06-Sep-2024 00:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/app.php on line 16
+[22-Sep-2024 05:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/draparnakhamatka/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/draparnakhamatka/public_html/config/cache.php on line 18
