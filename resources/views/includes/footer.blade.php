@@ -92,7 +92,7 @@
 			<!-- Footer Bottom -->
 			<div class="main-footer_bottom">
 				<div class=" text-center flex-wrap">
-					<div class="footer_copyright p-2">© Copyright 2024 Bombay Hospital & Medical Research Center All Rights Reserved</div>
+					<div class="footer_copyright p-2">© Copyright 2024 <a href="#" class="cpy-color">Bombay Hospital & Medical Research Center</a>  All Rights Reserved</div>
 					<!-- Scroll To Top -->
 					<!-- <div class="footer-scroll_top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div> -->
 				</div>

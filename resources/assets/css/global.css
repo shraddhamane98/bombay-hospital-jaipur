@@ -75,7 +75,8 @@
 	--color-two-rgb:34,34,34;
 	
 	/* #6d6e73 in decimal RGB */
-	--color-three: rgb(109,110,115);
+	/* --color-three: rgb(109,110,115); */
+	--color-three: rgb(37, 37, 37);
 	--color-three-rgb:109,110,115;
 	
 	/* #f9313b in decimal RGB */
@@ -150,6 +151,7 @@
   --font-14: 14px;
   --font-15: 15px;
   --font-16: 16px;
+  --font-17: 17px;
   --font-18: 18px;
   --font-20: 20px;
   --font-22: 22px;
@@ -487,7 +489,7 @@ textarea{
 p{
 	position:relative;
 	line-height:1.7em;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--text-color);
 }
 
@@ -1235,7 +1237,7 @@ img{
 
 .sec-title_text{
 	line-height:28px;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--color-three);
 	margin-top:var(--margin-top-25);
 }

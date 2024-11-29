@@ -35,7 +35,7 @@
 	position:relative;
 	line-height:30px;
 	opacity:0.90;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--white-color);
 	margin-bottom:var(--margin-bottom-25);
 }
@@ -107,7 +107,7 @@
 
 .main-footer_list li a{
 	position:relative;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--white-color);
 	padding-left:var(--padding-left-20);
 }
@@ -173,7 +173,7 @@
 	position:relative;
 	line-height:28px;
 	color:var(--white-color);
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	padding-left:var(--padding-left-35);
 	margin-bottom:var(--margin-bottom-20);
 }
@@ -218,7 +218,7 @@
 .footer_copyright{
 	position:relative;
 	font-weight:600;
-	font-size:var(--font-16);
+	font-size:var(--font-17);
 	color:var(--main-color);
 }
 
@@ -268,7 +268,7 @@
 
 .footer-schedule_list li{
 	position:relative;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	/* color:var(--color-three); */
 	color:var(--white-color);
 	text-transform:capitalize;
@@ -348,4 +348,7 @@
 	padding: 15px 0px;
 	color: var(--white-color);
 	border-top: 1px solid rgba(var(--white-color-rgb), 0.20);
+}
+.cpy-color{
+	color: var(--pink);
 }

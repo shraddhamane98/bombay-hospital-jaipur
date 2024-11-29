@@ -37,6 +37,8 @@
 --dark-blue:#313f9d;
 --dark-pink:#ED297B;
 /* --pink:#ED297B; */
+--pink:#e90085;
+--pink1:#ff79c5;
 --dark-pink2:#ab0045;
 --orange:#e44e54;
 --black:#0000;
@@ -1801,7 +1803,7 @@
 .about-two_text{
 	position:relative;
 	line-height:30px;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--color-three);
 	margin-bottom:var(--margin-bottom-20);
 }
@@ -1810,7 +1812,7 @@
 	position:relative;
 	line-height:32px;
 	color:var(--color-three);
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	margin-bottom:var(--margin-bottom-35);
 }
 
@@ -2135,7 +2137,7 @@
 .specialist-tabs .tab-btns .tab-btn:hover,
 .specialist-tabs .tab-btns .tab-btn.active-btn{
 	color:var(--white-color);
-	background-color:var(--orange);
+	background-color:var(--pink);
 }
 
 .specialist-tabs .tab-btns .tab-btn:hover .icon,
@@ -2203,7 +2205,7 @@
 
 .specialist-one_text{
 	line-height:30px;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--color-three);
 	margin-bottom:var(--margin-bottom-25);
 }
@@ -4064,7 +4066,8 @@
 	position:relative;
 	padding:45px 40px 40px;
 	border-radius:0px 0px 0px 50px;
-	background-color:var(--white-color);
+	/* background-color:var(--white-color); */
+	background-color: #ffe3f2;
 	background-image: url(../gallery/counter-bgs.png);
 	box-shadow:0px 0px 15px rgba(0,0,0,0.10);
 	background-position:right top;
@@ -4492,8 +4495,16 @@ img.chairman-2 {
 }
 .contact-email .info {
     border-radius: 20px;
-    background-color: #EEF2FB;
+    /* background-color: #EEF2FB; */
+	background-color: #fff;
     padding: 2px 20px 2px 2px;
+}
+.contact-email .info img {
+    width: 40px;
+    margin: 1px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
 }
 
 @media (max-width: 1000px) and (min-width: 610px){
@@ -4557,6 +4568,7 @@ align-items: center !important;
 	background-color:var(--white-color);
 	margin-bottom:var(--margin-bottom-15);
 	box-shadow:0px 0px 10px rgba(0,0,0,0.07);
+	
 }
 
 .accordion-box .block:last-child{
@@ -4608,7 +4620,7 @@ align-items: center !important;
 }
 
 .accordion-box .block .acc-btn.active .icon-outer .icon{
-	background-color:var(--color-four);
+	background-color:var(--pink);
 	transform:rotate(90deg);
 }
 
@@ -4637,6 +4649,13 @@ align-items: center !important;
     color:var(--color-two);
 }
 
+.accordion-box .block {
+    position: relative;
+    /* background-color: var(--white-color); */
+    background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
+    margin-bottom: var(--margin-bottom-15);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.07);
+}
 /* News Block Three */
 
 .news-block_three{
@@ -7501,7 +7520,7 @@ align-items: center !important;
 .doctor-detail_list-two li{
 	position:relative;
 	color:var(--color-three);
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	padding-left:var(--padding-left-30);
 	margin-bottom:var(--margin-bottom-15);
 }
@@ -8179,7 +8198,7 @@ align-items: center !important;
 .blog-detail .list-two li{
 	position:relative;
 	color:var(--color-three);
-	font-size:var(--font-16);
+	font-size:var(--font-17);
 	padding-left:var(--padding-left-30);
 	margin-bottom: var(--margin-bottom-10);
 }
@@ -15509,7 +15528,8 @@ align-items: center !important;
 
 .quality-one{
 	position: relative;
-	padding-bottom: var(--padding-bottom-100);
+    padding-bottom: var(--padding-bottom-100);
+    padding-top: 80px;
 }
 
 .quality-one .inner-container .tabs-content{
@@ -15595,6 +15615,68 @@ align-items: center !important;
 	position: relative;
 	margin-top: 50px;
 }
+
+/* ========= Select the Area of Pain ============= */
+.body-part-tabs {
+    padding: 5px 10px;
+    margin: 10px 25px;
+    border: 1px solid #000;
+    border-radius: 30px;
+    /* background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important; */
+    background: linear-gradient(127deg, #d7d9ff, #30348b) !important;
+    color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.brain {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 6px;
+}
+.modal {
+    position: fixed;
+    top: 20%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    overflow: hidden;
+    outline: 0;
+}
+.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: .3rem;
+    outline: 0;
+    background: linear-gradient(127deg, #fffcfe, #ffe8f3);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 25px;
+}
+.modal-dialog {
+    position: relative;
+    /* width: auto; */
+	width: auto;
+    margin: auto;
+    pointer-events: none;
+}
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 1100px;
+        /* margin: 1.75rem auto; */
+    }
+}
+
+
+
+/* ========= Select the Area of Pain ============= */
 
 /*** 
 
@@ -16850,7 +16932,7 @@ align-items: center !important;
 
 /* ========= box shadow ============ */
 .jai-img{
-	box-shadow: 18px 20px 0px 1px var(--orange);
+	box-shadow: 18px 20px 0px 1px var(--pink1);
 	border-radius: 12px !important;
 }
 
@@ -16873,7 +16955,7 @@ align-items: center !important;
 @media (max-width: 600px) and (min-width: 300px){
 	.our-locations {
 		background-color: #12337f;
-		height: 770px;
+		height: 799px;
 	}
 	}
 .locations {
@@ -17007,7 +17089,7 @@ align-items: center !important;
 	  }
 	  .our-locations {
 		background-color: #12337f;
-		height: 880px;
+		height: 890px;
 	}
   }
 
@@ -17057,6 +17139,7 @@ align-items: center !important;
   }
   .team-layout4 .team-box.active {
 	display: block;
+	background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
   }
   .team-layout4 .team-box .team-img img {
 	border-radius: 0 120px 0 120px;
@@ -17119,7 +17202,8 @@ align-items: center !important;
   }
   .team-layout4 .contact-email .info {
 	border-radius: 20px;
-	background-color: #EEF2FB;
+	/* background-color: #EEF2FB; */
+	background-color: #fff;
 	padding: 2px 20px 2px 2px;
   }
   .team-layout4 .contact-email .info i {
@@ -17136,11 +17220,16 @@ align-items: center !important;
 	width: 40px;
 	height: 40px;
 	line-height: 38px;
-	background-color: var(--white-color);
+	/* background-color: var(--white-color); */
 	border-radius: 50%;
 	text-align: center;
 	color: var(--theme-color);
 	margin-right: 15px;
+	background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
+	margin-right: 15px;
+  }
+  .info a{
+	font-size: 16px;
   }
   /* .team-layout4 .contact-email .info {
    display: flex;
@@ -17192,6 +17281,7 @@ align-items: center !important;
   }
   .team-style4.active {
 	border: 1px solid var(--dark-blue);
+	background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
   }
   .about-shape4 {
 	position: absolute;
