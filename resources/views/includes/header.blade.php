@@ -11,7 +11,7 @@
 		<div class="vs-mobile-menu">
 			<ul>
 				<li>
-					<a href="">Home</a>
+					<a href="{{ route('home')}}">Home</a>
 				</li>
 				<li class="menu-item-has-children">
 					<a href="">About Us</a>
@@ -155,7 +155,7 @@
 					<a href="">Dept. Spotlight</a>
 				</li>
 				<li>
-					<a href="">Consultants</a>
+					<a href="{{ route('consultants')}}">Consultants</a>
 				</li>
 				<li class="menu-item-has-children">
 					<a href="">Conferences</a>
@@ -226,7 +226,7 @@
 						<nav class="main-menu menu-style3 d-none d-lg-block">
 							<ul>
 								<li>
-									<a href="">Home</a>
+									<a href="{{ route('home')}}">Home</a>
 								</li>
 								<li class="menu-item-has-children">
 									<a href="">About Us</a>
@@ -382,7 +382,7 @@
 									<a href="">Dept. Spotlight</a>
 								</li>
 								<li>
-									<a href="">Consultants</a>
+									<a href="{{ route('consultants')}}">Consultants</a>
 								</li>
 								<li class="menu-item-has-children">
 									<a href="">Conferences</a>

@@ -23,6 +23,15 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
+Route::get('consultants', function () {
+    return view('consultants');
+})->name('consultants');
+
+Route::get('dr-satyavan-sharma', function () {
+    return view('docors-profiles.dr-satyavan-sharma');
+})->name('dr-satyavan-sharma');
+
+
 
 
 

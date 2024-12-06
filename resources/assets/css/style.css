@@ -2952,14 +2952,19 @@
 .timetable-one.style-two{
 	padding-bottom:var(--padding-bottom-100);
 }
+@media (max-width: 1250px) {
+    .doctors-time-table {
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px !important;
+    }
+}
 
 .doctors-time-table{
   position: relative;
   width: 100%;
   height: auto;
   background-color: var(--white-color);
-  min-width: 1170px;
-  box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+  /* min-width: 1170px; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 
 .doctors-time-table tr th.dark{
@@ -2990,19 +2995,26 @@
 .doctors-time-table tbody tr th{
   font-size: 16px;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
   width: 147px;
-  padding: 0 15px;
-  height: 92px;
+  padding: 20px 15px;
+  /* height: 92px; */
+  /* height: 60px; */
   color: var(--white-color);
   background-color: var(--main-color);
   border-bottom: 1px solid var(--white-color);
 }
-
+.timing{
+	color: #000;
+	font-size: 15px;
+	font-weight: 500;
+}
 .doctors-time-table tbody tr td{
   position: relative;
   cursor: pointer;
   transition: all 300ms ease;
+  text-align: left;
+  padding-left: 20px;
 }
 
 .doctors-time-table tbody tr td:hover{
@@ -3017,7 +3029,7 @@
 }
 
 .doctors-time-table tbody tr td strong{
-  font-size: 14px;
+  font-size: 15px;
   line-height: 18px;
 }
 
@@ -3029,6 +3041,14 @@
 
 .doctors-time-table tbody tr td:nth-child(even){
   background-color: #f5f5f5;
+}
+.doctors-time-table tbody tr td:first-child {
+    background-color: #f5f5f5;
+}
+.first-child{
+	background-color: #f5f5f5 !important;
+	color: #000 !important;
+	font-weight: 500 !important;
 }
 
 .doctors-time-table tbody tr:nth-child(even) td:nth-child(even){
@@ -4918,12 +4938,14 @@ align-items: center !important;
 	position:relative;
 	background-size:cover;
 	padding:120px 0px 120px;
+	background-image: url(../images/background/3.jpg);
 }
 
 .page-title h2{
 	font-weight:800;
 	color:var(--color-two);
 	text-transform:capitalize;
+
 }
 
 .page-title .bread-crumb{
@@ -5169,12 +5191,13 @@ align-items: center !important;
 .doctor-detail-section .number-box{
 	position:absolute;
 	left:-15px;
-	bottom:30px;
+	/* bottom:30px; */
+	bottom:175px;
 	color:#ffffff;
 	font-size:18px;
 	font-weight:700;
 	border-radius:0px 50px 50px 0px;
-	background-color:#1cba9f;
+	background-color:var(--main-color);
 	padding:10px 25px 10px 90px;
 }
 
@@ -5183,10 +5206,12 @@ align-items: center !important;
 	content:'';
 	left:0px;
 	bottom:-15px;
-	border-top: 15px solid #0d7563;
+	border-top: 15px solid #07135f;
     border-left: 15px solid transparent;
 }
-
+.font-b{
+	font-size: 13px;
+}
 .doctor-detail-section .play-button{
 	position:absolute;
 	left:20px;
@@ -7582,7 +7607,8 @@ align-items: center !important;
 
 .sidebar-widget .widget-content{
 	position:relative;
-	border:30px solid var(--color-five);
+	/* border:30px solid var(--color-five); */
+	border:15px solid var(--color-five);
 	background-color:var(--white-color);
 }
 
@@ -7711,6 +7737,7 @@ align-items: center !important;
 	background-position:center top;
 	background-repeat:no-repeat;
 	background-color:var(--color-five);
+	background-image: url(../images/background/pattern-33.png);
 }
 
 .expert_widget .color-layer{
@@ -14340,7 +14367,8 @@ align-items: center !important;
 .team-block-two .inner-box .image{
 	position:relative;
 	width:100%;
-	height:242px;
+	/* height:242px; */
+	height: auto;
 	overflow:hidden;
 	border-radius:50%;
 	margin:0 auto;
@@ -17337,3 +17365,16 @@ align-items: center !important;
 .team-layout4 {
     position: relative;
 }
+
+/* ======== doctors Profiles details ============ */
+
+.doctor-profile{
+	padding: 20px;
+    background: linear-gradient(127deg, #fff4fa, #ffc6e2);
+    border-radius: 12px;
+}
+.doctor-img img{
+	border-radius: 12px;
+}
+
+/* ======== doctors Profiles details ============ */
