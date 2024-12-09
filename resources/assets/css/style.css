@@ -657,7 +657,7 @@
 	position:absolute;
 	left:-300px;
 	/* bottom:50px; */
-	bottom:-50px;
+	bottom:-85px;
 	right:50px;
 	padding:35px 50px 0px;
 	background-position:left bottom;
@@ -3513,17 +3513,18 @@
 @media (min-width: 760px) {
 	.services-three{
 		position:relative;
-		margin-top:-80px !important;
+		/* margin-top:-80px !important; */
 		z-index:10;
-		padding:0px 0px 20px !important;
+		padding:20px 0px 20px !important;
 	}
 }
 @media (max-width: 765px){
 .services-three{
 	position:relative;
-	margin-top:-35px !important;
+	/* margin-top:-35px !important; */
 	z-index:10;
-	padding:0px 0px 40px  !important;;
+	/* padding:10px 0px 40px  !important;; */
+	padding:10px 0px 25px  !important;;
 }
 }
 .service-block_three{
@@ -16972,6 +16973,7 @@ align-items: center !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 510px;
+	margin-top: 20px;
 }
 
 @media (max-width: 1000px) {
@@ -17378,3 +17380,40 @@ align-items: center !important;
 }
 
 /* ======== doctors Profiles details ============ */
+
+/* why choose */
+/* @media (max-width: 1300px) and (min-width: 1140px){
+	.modern-one .counter-one {
+		position: relative;
+		left: -300px;
+		bottom: -95px;
+		right: 50px;
+		padding: 35px 50px 0px;
+		background-position: left bottom;
+		background-repeat: no-repeat;
+		border-radius: 12px;
+	}
+} */
+
+@media (max-width: 1300px) and (min-width: 1140px){
+    .modern-one .counter-one {
+        position: relative;
+        /* left: 0px; */
+		width: max-content;
+        right: 0px;
+        bottom: 0px;
+        margin-top: var(--margin-top-40);
+        background-position: right bottom;
+    }
+}
+@media (max-width:1034px) and (min-width: 1024px){
+    .modern-one .counter-one {
+        position: relative;
+        /* left: 0px; */
+		width: max-content;
+        right: 0px;
+        /* bottom: 0px; */
+        margin-top: var(--margin-top-40);
+        background-position: right bottom;
+    }
+}

@@ -18,10 +18,10 @@
 					<div class="swiper-slide homeslider">
 						<img src="{{ asset('resources/assets/gallery/banner-1.jpg') }}" alt="">
 					</div>
-					<div class="swiper-slide homeslider">
+					<!-- <div class="swiper-slide homeslider">
 						<img src="{{ asset('resources/assets/gallery/bombay-hospital-jaipur-opening-soon-banner.png') }}"
 							alt="">
-					</div>
+					</div> -->
 					<!-- <div class="swiper-slide">
 						<iframe class="youtube-video" width="560" height="315"
 							src="https://www.youtube.com/embed/zdP-b_LJqwg?si=sqA5H1bPG6-sXTou&enablejsapi=1&controls=0&rel=0"
@@ -50,9 +50,9 @@
 					<div class="swiper-slide homeslider">
 						<img src="{{ asset('resources/assets/gallery/banner-2-1-mob.jpg') }}" alt="">
 					</div>
-					<div class="swiper-slide homeslider">
+					<!-- <div class="swiper-slide homeslider">
 						<img src="{{ asset('resources/assets/gallery/jaipur-opening-soon-mob.png') }}" alt="">
-					</div>
+					</div> -->
 				</div>
 				<div class="swiper-button-next"></div>
 				<div class="swiper-button-prev"></div>
@@ -113,358 +113,6 @@
 			</div>
 		</section>
 		<!-- End Services Three -->
-
-		<!-- Specialist One -->
-		<section class="specialist-one">
-			<div class="specialist-one_pattern" style="background-image:url(assets/images/background/pattern-13.png)">
-			</div>
-			<div class="auto-container">
-
-				<!-- Sec Title -->
-				<div class="sec-title text-center">
-					<div class="sec-title_title"> <img src="{{ asset('/resources/assets/gallery/heading-top.png') }}"
-							alt="" /></div>
-					<h2 class="sec-title_heading">Super Speciality Services</h2>
-				</div>
-
-				<!-- Specialist Info Tabs -->
-				<div class="specialist-info-tabs">
-					<!-- Specialist Tabs -->
-					<div class="specialist-tabs tabs-box">
-
-						<!-- Tab Btns -->
-						<ul class="tab-btns tab-buttons clearfix">
-							<li data-tab="#cardiology" class="tab-btn active-btn"><img
-									src="{{ asset('/resources/assets/gallery/cardiology.png') }}" alt="" />Cardiology
-							</li>
-							<li data-tab="#gastroentrology" class="tab-btn"><img
-									src="{{ asset('/resources/assets/gallery/gastrology.png') }}"
-									alt="" />Gastroentrology</li>
-							<li data-tab="#neurology" class="tab-btn"><img
-									src="{{ asset('/resources/assets/gallery/neurology.png') }}" alt="" />Neurology</li>
-							<li data-tab="#plastic" class="tab-btn"><img
-									src="{{ asset('/resources/assets/gallery/plastic-surgey.png') }}" alt="" />Plastic
-								Surgery</li>
-						</ul>
-
-						<!-- Tabs Container -->
-						<div class="tabs-content">
-
-							<!-- Tab / Active Tab -->
-							<div class="tab active-tab" id="cardiology">
-								<div class="content">
-									<div class="row clearfix">
-										<!-- Image Column -->
-										<div class="image-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column specialist-images">
-												<div class="specialist-one_image">
-													<img src="{{ asset('/resources/assets/gallery/cardiology-img.png') }}"
-														alt="" />
-												</div>
-											</div>
-										</div>
-										<!-- Content Column -->
-										<div class="content-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column">
-												<h3 class="specialist-one_title">Cardiology</h3>
-												<div class="specialist-one_text">The Cardiology Department at Bombay
-													Hospital, established in 1950, is a leader in advanced
-													cardiac care, offering cutting-edge treatments and procedures.</div>
-												<div class="blog-detail">
-													<ul class="list-two">
-														<li>First open heart surgery in a non-government hospital in
-															1962.</li>
-														<li>Over 60,000 angiographies and 15,000 angioplasties
-															performed.</li>
-														<li>11 leading Interventional Cardiologists, including renowned
-															experts.</li>
-														<li>State-of-the-art non-invasive cardiology investigations</li>
-														<li>Advanced Nuclear Medicine with Thallium Stress Test and PET
-															Scan services.</li>
-													</ul>
-												</div>
-
-												<h6 class="team-block_two-title text-start pb-2">List of Consultants
-												</h6>
-
-												<div class="row clearfix">
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Satyavan Sharma</li>
-															<li>Dr. Anil Sharma</li>
-														</ul>
-													</div>
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Nagesh Waghmare</li>
-															<li>Dr. A.C. Pereira</li>
-														</ul>
-													</div>
-												</div>
-
-												<div class="specialist-one_button">
-													<a href="" class="theme-btn btn-style-one">
-														<span class="btn-wrap">
-															<span class="text-one">More Detail</span>
-															<span class="text-two">More Detail</span>
-														</span>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Tab -->
-							<div class="tab" id="gastroentrology">
-								<div class="content">
-									<div class="row clearfix">
-										<!-- Image Column -->
-										<div class="image-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column  specialist-images">
-												<div class="specialist-one_image">
-													<img src="{{ asset('/resources/assets/gallery/gastrology-imgs.png') }}"
-														alt="" />
-												</div>
-											</div>
-										</div>
-										<!-- Content Column -->
-										<div class="content-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column">
-												<h3 class="specialist-one_title">Gastroentrology</h3>
-												<div class="specialist-one_text">The gastroenterology department offers
-													advanced care with skilled consultants,
-													specializing in medical and interventional gastroenterology,
-													hepatology, and cutting-edge treatments.</div>
-												<div class="blog-detail">
-													<ul class="list-two">
-														<li>Diagnosis and management of gastrointestinal, liver, and
-															pancreatic disorders.</li>
-														<li>Interventional procedures like UGI endoscopy, colonoscopy,
-															and ERCP.</li>
-														<li>Treatment of inflammatory bowel disease, irritable bowel
-															syndrome, liver diseases, and more.</li>
-														<li>Specialized procedures like liver biopsies, HVPG monitoring,
-															and TIPSS placement.</li>
-													</ul>
-												</div>
-
-												<h6 class="team-block_two-title text-start pb-2">List of Consultants
-												</h6>
-
-												<div class="row clearfix">
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Vaibhav Somani</li>
-															<li>Dr. Gajanan Rodge</li>
-														</ul>
-													</div>
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Pravin Rathi</li>
-															<li>Dr. Nitin Aherrao</li>
-														</ul>
-													</div>
-												</div>
-
-												<div class="specialist-one_button">
-													<a href="" class="theme-btn btn-style-one">
-														<span class="btn-wrap">
-															<span class="text-one">More Detail</span>
-															<span class="text-two">More Detail</span>
-														</span>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Tab -->
-							<div class="tab" id="neurology">
-								<div class="content">
-									<div class="row clearfix">
-										<!-- Image Column -->
-										<div class="image-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column  specialist-images">
-												<div class="specialist-one_image">
-													<img src="{{ asset('/resources/assets/gallery/neurology-img.png') }}"
-														alt="" />
-												</div>
-											</div>
-										</div>
-										<!-- Content Column -->
-										<div class="content-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column">
-												<h3 class="specialist-one_title">Neurology</h3>
-												<div class="specialist-one_text">Bombay Hospital's Neurology department
-													offers world-class
-													care with expert specialists, cutting-edge treatments, and unmatched
-													clinical outcomes.</div>
-												<div class="blog-detail">
-													<ul class="list-two">
-														<li>Ranked among the best in India by Outlook Health 2022.</li>
-														<li>Expertise in stroke, brain tumors, spinal injuries, and
-															more.</li>
-														<li>Specialized Neurointerventional team for acute stroke care.
-														</li>
-														<li>Seamless collaboration across multiple neurological
-															specialties.</li>
-													</ul>
-												</div>
-
-												<h6 class="team-block_two-title text-start pb-2">List of Consultants
-												</h6>
-
-												<div class="row clearfix">
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. B.S. Singhal</li>
-															<li>Dr. N.E. Bharucha</li>
-														</ul>
-													</div>
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Vibhor Pardasani</li>
-															<li>Dr. Rakesh Singh</li>
-														</ul>
-													</div>
-												</div>
-
-												<div class="specialist-one_button">
-													<a href="" class="theme-btn btn-style-one">
-														<span class="btn-wrap">
-															<span class="text-one">More Detail</span>
-															<span class="text-two">More Detail</span>
-														</span>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!-- Tab -->
-							<div class="tab" id="plastic">
-								<div class="content">
-									<div class="row clearfix">
-										<!-- Image Column -->
-										<div class="image-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column  specialist-images">
-												<div class="specialist-one_image">
-													<img src="{{ asset('/resources/assets/gallery/plastic-surgery-img.png') }}"
-														alt="" />
-												</div>
-											</div>
-										</div>
-										<!-- Content Column -->
-										<div class="content-column col-lg-6 col-md-12 col-sm-12">
-											<div class="inner-column">
-												<h3 class="specialist-one_title">Plastic Surgery</h3>
-												<div class="specialist-one_text">The department offers comprehensive
-													care in Plastic Surgery,
-													including aesthetic, reconstructive, and microsurgical procedures.
-												</div>
-												<div class="blog-detail">
-													<ul class="list-two">
-														<li>Expert consultants in Aesthetic Surgery, Craniofacial
-															Surgery, Hand Surgery, and more.</li>
-														<li>Specializes in improving form, function, and emotional
-															well-being.</li>
-														<li>Focus on both reconstructive and cosmetic procedures.</li>
-														<li>DNB course in Plastic Surgery offered for advanced training.
-														</li>
-													</ul>
-												</div>
-
-												<h6 class="team-block_two-title text-start pb-2">List of Consultants
-												</h6>
-
-												<div class="row clearfix">
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Ashok Gupta</li>
-															<li>Dr. Mukund Thatte</li>
-
-														</ul>
-													</div>
-													<div class="column col-lg-6 col-md-6 col-sm-12">
-														<ul class="specialist-one_list">
-															<li>Dr. Anshuman Manaswi</li>
-															<li>Dr. Akshay Deshpande</li>
-
-														</ul>
-													</div>
-												</div>
-
-												<div class="specialist-one_button">
-													<a href="" class="theme-btn btn-style-one">
-														<span class="btn-wrap">
-															<span class="text-one">More Detail</span>
-															<span class="text-two">More Detail</span>
-														</span>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</section>
-
-		<!--======== End Specialist One============ -->
-
-		<!-- ======== vision mission=========== -->
-		<section class="counter-two pt-3 bg-light">
-			<div class="auto-container">
-				<!-- Sec Title -->
-				<div class="sec-title text-center">
-					<div class="sec-title_title"> <img src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}"
-							alt="" /></div>
-					<h2 class="sec-title_heading">Foundation of Our Journey</h2>
-				</div>
-				<div class="row clearfix">
-
-					<!-- Counter Column -->
-					<div class="counter-two_block col-lg-4 col-md-6 col-sm-6">
-						<div class="counter-two_inner myvision">
-
-							<h4 class="">Vision</h4>
-							<div class="counter-two_text pt-4 ">"Leading healthcare provider known for excellence, innovation & compassion."</div> 
-						</div>
-					</div>
-
-					<!-- Counter Column -->
-					<div class="counter-two_block col-lg-4 col-md-6 col-sm-6">
-						<div class="counter-two_inner myvision">
-							<h4 class="">Mission</h4>
-							<div class="counter-two_text pt-4">"Patients are central to our work, not interruptions or outsiders."</div> <br>
-						</div>
-					</div>
-
-					<!-- Counter Column -->
-					<div class="counter-two_block col-lg-4 col-md-12 col-sm-6">
-						<div class="counter-two_inner myvision">
-							<h4 class="">Motto</h4>
-							<div class="counter-two_text pt-4">"Patients are central to our work, not interruptions or outsiders."</div><br>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		<!-- ========End Vision mission ======== -->
-
 
 		<!-- About Two -->
 		<section class="about-two pt-40">
@@ -540,6 +188,48 @@
 		</section>
 		<!-- End About Two -->
 
+			<!-- ======== vision mission=========== -->
+			<section class="counter-two pt-3 bg-light">
+			<div class="auto-container">
+				<!-- Sec Title -->
+				<div class="sec-title text-center">
+					<!-- <div class="sec-title_title"> <img src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}"
+							alt="" /></div> -->
+					<h2 class="sec-title_heading">Foundation of Our Journey</h2>
+				</div>
+				<div class="row clearfix">
+
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-4 col-md-6 col-sm-6">
+						<div class="counter-two_inner myvision">
+
+							<h4 class="">Vision</h4>
+							<div class="counter-two_text pt-4 ">"Leading healthcare provider known for excellence, innovation & compassion."</div> 
+						</div>
+					</div>
+
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-4 col-md-6 col-sm-6">
+						<div class="counter-two_inner myvision">
+							<h4 class="">Mission</h4>
+							<div class="counter-two_text pt-4">"Patients are central to our work, not interruptions or outsiders."</div> <br>
+						</div>
+					</div>
+
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-4 col-md-12 col-sm-6">
+						<div class="counter-two_inner myvision">
+							<h4 class="">Motto</h4>
+							<div class="counter-two_text pt-4">"Patients are central to our work, not interruptions or outsiders."</div><br>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- ========End Vision mission ======== -->
+
+
 
 		<!--==============================
           Departments Area desktop
@@ -553,8 +243,8 @@
 					<div class="col-xl-6">
 						<!-- Sec Title -->
 						<div class="sec-title text-center">
-							<div class="sec-title_title"> <img
-									src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}" alt="" /></div>
+							<!-- <div class="sec-title_title"> <img
+									src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}" alt="" /></div> -->
 							<h2 class="sec-title_heading">Departments</h2>
 						</div>
 					</div>
@@ -1532,7 +1222,7 @@
 								<!-- Sec Title -->
 								<div class="sec-title ">
 									<div class="sec-title_title "> <img
-											src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
+											src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}" alt="" />
 									</div>
 									<h2 class="sec-title_heading">Chairman's Message</h2>
 								</div>
@@ -1569,9 +1259,9 @@
 		  <section class="quality-one bg-light">
                 <div class="auto-container">
                     <div class="sec-title centered">
-                        <div class="sec-title_title "> <img
+                        <!-- <div class="sec-title_title "> <img
                                 src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
-                        </div>
+                        </div> -->
                         <h2 class="sec-title_heading">Select the Area of Pain </h2>
                         <p>To  find the right specialist for effective care.</p>
                     </div>
@@ -2160,7 +1850,7 @@
 						<div class="modern-one_content-inner">
 							<div class="sec-title text-center">
 								<div class="sec-title_title "> <img
-										src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
+										src="{{ asset('/resources/assets/gallery/heading-top-2.png') }}" alt="" />
 								</div>
 								<h2 class="sec-title_heading">Why Choose Us</h2>
 							</div>
@@ -2248,9 +1938,9 @@
 				<div class="row">
 					<div class="col-lg-4">
 						<div class="sec-title pt-lg-5">
-							<div class="sec-title_title text-center"> <img
+							<!-- <div class="sec-title_title text-center"> <img
 									src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
-							</div>
+							</div> -->
 							<div class="text-center">
 								<h2 class="sec-title_heading">Our Locations</h2>
 							</div>
@@ -2315,9 +2005,9 @@
 				<div class="row g-0 align-items-center">
 					<div class="col-xl-3">
 						<div class="sec-title ">
-							<div class="sec-title_title "> <img
+							<!-- <div class="sec-title_title "> <img
 									src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
-							</div>
+							</div> -->
 							<h2 class="sec-title_heading mb-3">In-Patient Guide</h2>
 							<p class="wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">Our In-Patient Guide
 								offers
