@@ -986,7 +986,8 @@
 	}
 	
 	.page-title{
-		padding:70px 0px;
+		/* padding:70px 0px; */
+		padding:70px 30px;
 	}
 	
 	.gallery-one .filters .filter-tabs .filter{

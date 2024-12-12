@@ -190,7 +190,7 @@
 						<ul>
 							<li><a href=""> Stents Pricing</a></li>
 							<li><a href=""> EHS</a></li>
-							<li><a href=""> College of Nursing</a></li>
+							<!-- <li><a href=""> College of Nursing</a></li> -->
 							<li><a href=""> BHIMS</a></li>
 							<li><a href=""> Vacancies</a></li>
 							<li><a href=""> What's New</a></li>

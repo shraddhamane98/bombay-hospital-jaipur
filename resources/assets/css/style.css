@@ -559,6 +559,12 @@
 	color:var(--white-color);
 }
 
+@media (max-width: 1100px) and (min-width: 767px) {
+.page-title{
+	padding:70px 30px !important;
+}
+}
+
 /*** 
 
 ====================================================================
@@ -583,6 +589,7 @@
 		padding: 0px 35px;
 	}
 }
+
 .modern-one{
 	position:relative;
 	padding:110px 0px 80px;
@@ -1480,6 +1487,8 @@
 	background-position:center center;
 	background-color:var(--white-color);
 	box-shadow:0px 0px 15px rgba(0,0,0,0.10);
+	/* background-image: url(../images/background/pattern-7.png); */
+	background-image: url(../all-doctors/find-doctor.png);
 }
 
 .newsletter-one_icon{
@@ -14354,7 +14363,8 @@ align-items: center !important;
 .team-block-two{
 	position:relative;
 	z-index:1;
-	margin-bottom:70px;
+	/* margin-bottom:70px; */
+	margin-bottom:30px;
 }
 
 .team-block-two .inner-box{
@@ -17416,4 +17426,13 @@ align-items: center !important;
         margin-top: var(--margin-top-40);
         background-position: right bottom;
     }
+}
+
+/* =============  Department ================== */
+.all-depts{
+	background: linear-gradient(127deg, #fff4fa, #ffc6e2) !important;
+}
+.all-depts h4{
+	color: var(--main-color);
+	font-size: 25px;
 }
