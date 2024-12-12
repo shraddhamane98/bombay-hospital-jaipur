@@ -414,7 +414,7 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr PRATEEK KOOLWAL </a></h5>
+                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Prateek Koolwal </a></h5>
                                             <div class="designation">MBBS, MD (ANAESTHESIA) IDCCM ,FNB( Critical Care Medicine) </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">

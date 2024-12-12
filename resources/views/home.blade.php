@@ -188,8 +188,8 @@
 		</section>
 		<!-- End About Two -->
 
-			<!-- ======== vision mission=========== -->
-			<section class="counter-two pt-3 bg-light">
+		<!-- ======== vision mission=========== -->
+		<section class="counter-two pt-3 bg-light">
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title text-center">
@@ -204,7 +204,7 @@
 						<div class="counter-two_inner myvision">
 
 							<h4 class="">Vision</h4>
-							<div class="counter-two_text pt-4 ">"Leading healthcare provider known for excellence, innovation & compassion."</div> 
+							<div class="counter-two_text pt-4 ">"Leading healthcare provider known for excellence, innovation & compassion."</div>
 						</div>
 					</div>
 
@@ -888,7 +888,7 @@
 																				alt=""><a href="">General Surgery</a></p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p class="info"><img
@@ -911,7 +911,7 @@
 																				alt=""><a href="">Spine Surgery</a></p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p class="info"><img
@@ -1008,7 +1008,7 @@
 																		</p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p class="info  p-1 text-center"><a href=""><b>Pathology</b></a>
@@ -1050,7 +1050,7 @@
 																				alt=""><a href="">Clinical Pathology</a></p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p class="info text-center p-1"><a href=""><b>Other
@@ -1130,7 +1130,7 @@
 																				alt=""><a href="">Lithotripsy</a></p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p class="info"><img
@@ -1153,7 +1153,7 @@
 																				alt=""><a href="">Radiation Therapy</a></p>
 																	</div>
 																</div>
-				
+
 																<div class="col-lg-4">
 																	<div class="contact-email">
 																		<p
@@ -1255,588 +1255,588 @@
 		</section>
 		<!-- End Chairman's Message -->
 
-		  <!-- Quality One -->
-		  <section class="quality-one bg-light">
-                <div class="auto-container">
-                    <div class="sec-title centered">
-                        <!-- <div class="sec-title_title "> <img
+		<!-- Quality One -->
+		<section class="quality-one bg-light">
+			<div class="auto-container">
+				<div class="sec-title centered">
+					<!-- <div class="sec-title_title "> <img
                                 src="{{ asset('/resources/assets/gallery/heading-top.png') }}" alt="" />
                         </div> -->
-                        <h2 class="sec-title_heading">Select the Area of Pain </h2>
-                        <p>To  find the right specialist for effective care.</p>
-                    </div>
-                    <div class="inner-container">
-                        <!-- Quality Info Tabs -->
-                        <div class="quality-info-tabs">
-                            <!-- Product Tabs -->
-                            <div class="quality-tabs tabs-box">
-                                <!-- Tab Btns -->
-                                <ul class="tab-btns tab-buttons clearfix pb-3">
-                                    <li data-tab="#quality-one" class="tab-btn active-btn">Men</li>
-                                    <li data-tab="#quality-two" class="tab-btn">Women</li>
-                                </ul>
-                                <!-- Tabs Container -->
-                                <div class="tabs-content">
-                                    <!-- Tab / Active Tab -->
-                                    <div class="tab active-tab" id="quality-one">
-                                        <div class="content">
-                                            <h2>Men</h2>
-                                            <div class="row pt-4">
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#headModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/head.png') }}"
-                                                            alt="" />
-                                                    </div>
-                                                    <h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#headModal">Head & Neck
-                                                    </h4>
-                                                </div>
+					<h2 class="sec-title_heading">Select the Area of Pain </h2>
+					<p>To find the right specialist for effective care.</p>
+				</div>
+				<div class="inner-container">
+					<!-- Quality Info Tabs -->
+					<div class="quality-info-tabs">
+						<!-- Product Tabs -->
+						<div class="quality-tabs tabs-box">
+							<!-- Tab Btns -->
+							<ul class="tab-btns tab-buttons clearfix pb-3">
+								<li data-tab="#quality-one" class="tab-btn active-btn">Men</li>
+								<li data-tab="#quality-two" class="tab-btn">Women</li>
+							</ul>
+							<!-- Tabs Container -->
+							<div class="tabs-content">
+								<!-- Tab / Active Tab -->
+								<div class="tab active-tab" id="quality-one">
+									<div class="content">
+										<h2>Men</h2>
+										<div class="row pt-4">
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#headModal">
+													<img src="{{ asset('/resources/assets/gallery/head.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#headModal">Head & Neck
+												</h4>
+											</div>
 
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#chestModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/chest.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#chestModal">Chest
-                                                    </h4>
-                                                </div>
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#chestModal">
+													<img src="{{ asset('/resources/assets/gallery/chest.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#chestModal">Chest
+												</h4>
+											</div>
 
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#stomachModal">
-                                                      <img src="{{ asset('/resources/assets/gallery/stomach.png') }}" alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#stomachModal">Stomach
-                                                    </h4>
-                                                </div>
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#stomachModal">
+													<img src="{{ asset('/resources/assets/gallery/stomach.png') }}" alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#stomachModal">Stomach
+												</h4>
+											</div>
 
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#thighModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/leg.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#thighModal">Thighs & Legs
-                                                    </h4>
-                                                </div>
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#thighModal">
+													<img src="{{ asset('/resources/assets/gallery/leg.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#thighModal">Thighs & Legs
+												</h4>
+											</div>
 
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#backModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/back.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#backModal">Back </h4>
-                                                </div>
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#backModal">
+													<img src="{{ asset('/resources/assets/gallery/back.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#backModal">Back </h4>
+											</div>
 
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#handModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/arm.png') }}"
-                                                            alt="" />
-                                                    </div>
-                                                    <h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#handModal">Hand & Shoulder </h4>
-                                                </div>
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#handModal">
+													<img src="{{ asset('/resources/assets/gallery/arm.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#handModal">Hand & Shoulder </h4>
+											</div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <!--women Tab -->
-                                    <div class="tab" id="quality-two">
-                                        <div class="content">
-                                            <h2>Women</h2>
-                                           <div class="row pt-4">
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#headModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/head-w.png') }}"
-                                                            alt="" />
-                                                    </div>
-                                                    <h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#headModal">Head & Neck
-                                                    </h4>
-                                                </div>
-
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#chestModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/chest-w.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#chestModal">Chest
-                                                    </h4>
-                                                </div>
-
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#stomachModal">
-                                                      <img src="{{ asset('/resources/assets/gallery/stomach.png') }}" alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#stomachModal">Stomach
-                                                    </h4>
-                                                </div>
-
-                                                <div class="col-lg-4  col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#thighModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/leg-w.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#thighModal">Thighs & Legs
-                                                    </h4>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part"  data-toggle="modal" data-target="#backModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/back-w.png') }}"
-                                                            alt="" />
-                                                    </div>
-													<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#backModal">Back </h4>
-                                                </div>
-                                                
-                                                <div class="col-lg-4 col-md-6 col-sm-12">
-                                                    <div class="body-part" data-toggle="modal" data-target="#handModal">
-                                                        <img src="{{ asset('/resources/assets/gallery/arm.png') }}"
-                                                            alt="" />
-                                                    </div>
-                                                    <h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#handModal">Hand & Shoulder </h4>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
+										</div>
+									</div>
+								</div>
 
 
-                                </div>
-                            </div>
-                        </div>
+								<!--women Tab -->
+								<div class="tab" id="quality-two">
+									<div class="content">
+										<h2>Women</h2>
+										<div class="row pt-4">
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#headModal">
+													<img src="{{ asset('/resources/assets/gallery/head-w.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#headModal">Head & Neck
+												</h4>
+											</div>
 
-                        <!-- -- modal code start -- -->
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#chestModal">
+													<img src="{{ asset('/resources/assets/gallery/chest-w.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#chestModal">Chest
+												</h4>
+											</div>
 
-                        <!-- Head Modal -->
-                        <div class="modal fade" id="headModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header d-flex justify-content-center">
-                                    <img src="{{ asset('/resources/assets/gallery/head.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h3 class="modal-title text-center">Head & Neck</h3>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-                                                    <div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/brain.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center pl-2">Brain</h4>  
-                                                    </div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list ">
-                                                            <li><a href="">Neurosurgery</a></li>
-                                                            <li><a href="">Neurology</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#stomachModal">
+													<img src="{{ asset('/resources/assets/gallery/stomach.png') }}" alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#stomachModal">Stomach
+												</h4>
+											</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-                                                <div class="name border-bottom d-flex justify-content-center">
-                                                <img src="{{ asset('/resources/assets/gallery/ent.png') }}"
-                                                alt="" style="width: 30px;" />
-                                                    <h4 class="text-center pl-2">Ear & Nose</h4>
-                                                    </div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">ENT </a></li>
-                                                            <li><a href="">Laryngology</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+											<div class="col-lg-4  col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#thighModal">
+													<img src="{{ asset('/resources/assets/gallery/leg-w.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#thighModal">Thighs & Legs
+												</h4>
+											</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-                                                <div class="name border-bottom d-flex justify-content-center">
-                                                <img src="{{ asset('/resources/assets/gallery/throat.png') }}"
-                                                alt="" style="width: 30px;" />
-                                                    <h4 class="text-center pl-2">Vocal Cord</h4>
-                                                    </div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">ENT</a></li>
-                                                            <li><a href="">Voice And Swallowing Center</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-                                                <div class="name border-bottom d-flex justify-content-center">
-                                                <img src="{{ asset('/resources/assets/gallery/eye.png') }}"
-                                                alt="" style="width: 30px;" />
-                                                    <h4 class="text-center pl-2">Eye</h4>
-                                                    </div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Ophthalmology</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#backModal">
+													<img src="{{ asset('/resources/assets/gallery/back-w.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#backModal">Back </h4>
+											</div>
 
-                                </div>
-                            </div>
-                        </div>
+											<div class="col-lg-4 col-md-6 col-sm-12">
+												<div class="body-part" data-toggle="modal" data-target="#handModal">
+													<img src="{{ asset('/resources/assets/gallery/arm.png') }}"
+														alt="" />
+												</div>
+												<h4 class="mb-5 body-part-tabs" data-toggle="modal" data-target="#handModal">Hand & Shoulder </h4>
+											</div>
 
-						 <!-- Chest Modal -->
-						 <div class="modal fade" id="chestModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header  d-flex justify-content-center">
-									<img src="{{ asset('/resources/assets/gallery/chest.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h3 class="modal-title text-center">Chest</h3>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
+										</div>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+					</div>
+
+					<!-- -- modal code start -- -->
+
+					<!-- Head Modal -->
+					<div class="modal fade" id="headModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header d-flex justify-content-center">
+									<img src="{{ asset('/resources/assets/gallery/head.png') }}"
+										alt="" style="width: 40px;" />
+									<h3 class="modal-title text-center">Head & Neck</h3>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
 												<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/heart.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Heart</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Cardiology</a></li>
-                                                            <li><a href="">Cardiovascular Thoracic Surgery</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+													<img src="{{ asset('/resources/assets/gallery/brain.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center pl-2">Brain</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list ">
+														<li><a href="">Neurosurgery</a></li>
+														<li><a href="">Neurology</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/liver.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Liver</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Gastroentrology </a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/ent.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center pl-2">Ear & Nose</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">ENT </a></li>
+														<li><a href="">Laryngology</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/chest-pain.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Chest</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Pulmonary Medicine</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/throat.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center pl-2">Vocal Cord</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">ENT</a></li>
+														<li><a href="">Voice And Swallowing Center</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/eye.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center pl-2">Eye</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Ophthalmology</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
 
-                                </div>
-                            </div>
-                        </div>
+							</div>
+						</div>
+					</div>
 
-						<!-- Stomach Modal -->
-						<div class="modal fade" id="stomachModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header d-flex justify-content-center">
+					<!-- Chest Modal -->
+					<div class="modal fade" id="chestModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header  d-flex justify-content-center">
+									<img src="{{ asset('/resources/assets/gallery/chest.png') }}"
+										alt="" style="width: 40px;" />
+									<h3 class="modal-title text-center">Chest</h3>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/heart.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Heart</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Cardiology</a></li>
+														<li><a href="">Cardiovascular Thoracic Surgery</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/liver.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Liver</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Gastroentrology </a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/chest-pain.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Chest</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Pulmonary Medicine</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
+
+							</div>
+						</div>
+					</div>
+
+					<!-- Stomach Modal -->
+					<div class="modal fade" id="stomachModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header d-flex justify-content-center">
 									<img src="{{ asset('/resources/assets/gallery/stomach.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h3 class="modal-title text-center">Stomach</h3>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/kidneys.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Kidney</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Nephrology</a></li>
-                                                            <li><a href="">Urology</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										alt="" style="width: 40px;" />
+									<h3 class="modal-title text-center">Stomach</h3>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/kidneys.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Kidney</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Nephrology</a></li>
+														<li><a href="">Urology</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/fertilization.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Reproductive System</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Gynaecology</a></li>
-															<li><a href="">ObstetricsUrology</a></li>	
-														</ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-											<div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/liver.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Reproductive System</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Gastroentrology </a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/fertilization.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Reproductive System</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Gynaecology</a></li>
+														<li><a href="">ObstetricsUrology</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/liver.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Reproductive System</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Gastroentrology </a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
 
-                                </div>
-                            </div>
-                        </div>
+							</div>
+						</div>
+					</div>
 
-						<!-- Thighs & Legs Modal -->
-						<div class="modal fade" id="thighModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header   d-flex justify-content-center">
+					<!-- Thighs & Legs Modal -->
+					<div class="modal fade" id="thighModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header   d-flex justify-content-center">
 									<img src="{{ asset('/resources/assets/gallery/leg.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h3 class="modal-title text-center">Thighs & Legs</h3>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/knees.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Thigh & Knee</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										alt="" style="width: 40px;" />
+									<h3 class="modal-title text-center">Thighs & Legs</h3>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/knees.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Thigh & Knee</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/veins.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Varicose Vein</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">DSA</a></li>
-														</ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-											<div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/foot.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Ankle & Foot</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics </a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/veins.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Varicose Vein</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">DSA</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/foot.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Ankle & Foot</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics </a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
 
-                                </div>
-                            </div>
-                        </div>
+							</div>
+						</div>
+					</div>
 
-						<!-- Back Modal -->
-						<div class="modal fade" id="backModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header  d-flex justify-content-center">
+					<!-- Back Modal -->
+					<div class="modal fade" id="backModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header  d-flex justify-content-center">
 									<img src="{{ asset('/resources/assets/gallery/back.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h3 class="modal-title">Back</h3>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/lower-back.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Lower Back</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Spine Surgery</a></li>
-															<li><a href="">Physiotherapy</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										alt="" style="width: 40px;" />
+									<h3 class="modal-title">Back</h3>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/lower-back.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Lower Back</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Spine Surgery</a></li>
+														<li><a href="">Physiotherapy</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/hip.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Hip</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics</a></li>
-														</ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-						
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/hip.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Hip</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                </div>
-                            </div>
-                        </div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
 
-                        <!-- Back Modal -->
-						<div class="modal fade" id="handModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header d-flex justify-content-center">
+							</div>
+						</div>
+					</div>
+
+					<!-- Back Modal -->
+					<div class="modal fade" id="handModal">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<!-- Modal Header -->
+								<div class="modal-header d-flex justify-content-center">
 									<img src="{{ asset('/resources/assets/gallery/arm.png') }}"
-                                    alt="" style="width: 40px;" />
-                                        <h2 class="modal-title text-center">Hand & Shoulder</h2>
-                                        <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/elbow.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Elbow</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										alt="" style="width: 40px;" />
+									<h2 class="modal-title text-center">Hand & Shoulder</h2>
+									<!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+								</div>
+								<!-- Modal body -->
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/elbow.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Elbow</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/full-arm.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Arm</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics</a></li>
-														</ul>
-                                                    </div>
-                                                </div>
-                                            </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/full-arm.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Arm</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-12">
-                                                <div class="brain">
-													<div class="name border-bottom d-flex justify-content-center">
-                                                    <img src="{{ asset('/resources/assets/gallery/wrist.png') }}"
-                                                        alt="" style="width: 30px;" />
-                                                    <h4 class="text-center  pl-2">Wrist</h4>
-													</div>
-                                                    <div class="department-detail pt-3">
-                                                        <ul class="list">
-                                                            <li><a href="">Orthopaedics</a></li>
-														</ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-						
-                                        </div>
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
+										<div class="col-lg-4 col-md-6 col-sm-12">
+											<div class="brain">
+												<div class="name border-bottom d-flex justify-content-center">
+													<img src="{{ asset('/resources/assets/gallery/wrist.png') }}"
+														alt="" style="width: 30px;" />
+													<h4 class="text-center  pl-2">Wrist</h4>
+												</div>
+												<div class="department-detail pt-3">
+													<ul class="list">
+														<li><a href="">Orthopaedics</a></li>
+													</ul>
+												</div>
+											</div>
+										</div>
 
-                                </div>
-                            </div>
-                        </div>
+									</div>
+								</div>
+								<!-- Modal footer -->
+								<div class="modal-footer">
+									<button type="button" class="btn btn-danger"
+										data-dismiss="modal">Close</button>
+								</div>
 
-                    </div>
-                </div>
-            </section>
-            <!-- End Quality One -->
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- End Quality One -->
 
 
 		<!-- Modern One -->

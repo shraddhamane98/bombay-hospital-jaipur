@@ -17,7 +17,7 @@
 					<a href="">About Us</a>
 					<ul class="sub-menu">
 						<li><a href="">About Hospital</a></li>
-						<li><a href="">Founders</a></li>
+						<li><a href="{{ route('founders')}}">Founders</a></li>
 						<li><a href="">History</a></li>
 						<li><a href="">Hospital Location</a></li>
 						<li><a href="">Management Board</a></li>
@@ -168,7 +168,7 @@
 					<a href="">Health Packages</a>
 				</li>
 				<li>
-					<a href="">Contact Us</a>
+					<a href="{{ route('contact')}}">Contact Us</a>
 				</li>
 			</ul>
 		</div>
@@ -232,7 +232,7 @@
 									<a href="">About Us</a>
 									<ul class="sub-menu">
 										<li><a href="">About Hospital</a></li>
-										<li><a href="">Founders</a></li>
+										<li><a href="{{ route('founders')}}">Founders</a></li>
 										<li><a href="">History</a></li>
 										<li><a href="">Hospital Location</a></li>
 										<li><a href="">Management Board</a></li>
@@ -395,7 +395,7 @@
 									<a href="">Health Packages</a>
 								</li>
 								<li>
-									<a href="">Contact</a>
+									<a href="{{ route('contact')}}">Contact</a>
 								</li>
 							</ul>
 						</nav>

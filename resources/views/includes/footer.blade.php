@@ -59,8 +59,8 @@
 								<div class="footer-widget contact-widget">
 									<h4 class="main-footer_title">Contact Info</h4>
 									<ul class="main-footer_contact-list">
-										<li><span class="icon fa-solid fa-phone fa-fw"></span><a href="tel:+91-22-22067676">+91-22-22067676</a></li>
-										<li><span class="icon fa-solid fa-envelope fa-fw"></span> <a href="mailto:helpdesk@bombayhospital.com">helpdesk@bombayhospital.com</a></li>
+										<li><span class="icon fa-solid fa-phone fa-fw"></span><a href="tel:02222067676">02222067676</a></li>
+										<li><span class="icon fa-solid fa-envelope fa-fw"></span> <a href="mailto:bombayhospitalsjaipur.com">bombayhospitalsjaipur.com</a></li>
 										<li><span class="icon fa-solid fa-clock fa-fw"></span>Mon - Sat 8:00 - 6:30, <br> Sunday - CLOSED</li>
 									</ul>
 
@@ -135,3 +135,6 @@
 	<script src="{{ asset('/resources/assets/js/script.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/color-settings.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/main.js')}}"></script>
+
+	<!-- video  -->
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>

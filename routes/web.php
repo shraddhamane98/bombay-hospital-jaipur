@@ -31,6 +31,14 @@ Route::get('dr-satyavan-sharma', function () {
     return view('docors-profiles.dr-satyavan-sharma');
 })->name('dr-satyavan-sharma');
 
+Route::get('contact', function () {
+    return view('contact');
+})->name('contact');
+
+Route::get('founders', function () {
+    return view('founders');
+})->name('founders');
+
 
 
 
