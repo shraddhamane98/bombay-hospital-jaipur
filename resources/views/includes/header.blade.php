@@ -124,7 +124,7 @@
 					</ul>
 				</li> -->
 
-				<li class="menu-item-has-children">
+				<!-- <li class="menu-item-has-children">
 					<a href="#none">In-Patient Guide</a>
 					<ul class="sub-menu">
 						<li class="menu-item-has-children"><a href="">Admission</a>
@@ -148,7 +148,7 @@
 						<li><a href="">Foreign Nationals / NRI</a></li>
 						<li><a href="">Online Payment Gateway</a></li>
 					</ul>
-				</li>
+				</li> -->
 				<li class="menu-item-has-children">
 					<a href="#none">Media</a>
 					<ul class="sub-menu">
@@ -351,7 +351,7 @@
 							</ul>
 							</li>
 
-							<li class="menu-item-has-children">
+							<!-- <li class="menu-item-has-children">
 								<a href="">In-Patient Guide</a>
 								<ul class="sub-menu">
 									<li class="menu-item-has-children"><a href="">Admission</a>
@@ -375,7 +375,7 @@
 									<li><a href="">Foreign Nationals / NRI</a></li>
 									<li><a href="">Online Payment Gateway</a></li>
 								</ul>
-							</li>
+							</li> -->
 
 
 							<li class="menu-item-has-children">
