@@ -9,11 +9,11 @@
 ============================== -->
 <section class="page-title">
     <div class="auto-container">
-        <h2>Dr. Satyavan Sharma</h2>
+        <h2>Dr. Vaibhav Trivedi</h2>
         <ul class="bread-crumb clearfix">
             <li><a href="{{ route('home')}}">Home</a> </li>
-            <li><a>Cardiologist</a> </li>
-            <li>Dr. Satyavan Sharma</li>
+            <li><a> Nuclear Medicine, Molecular Imaging & Radionuclide Therapy</a> </li>
+            <li>Dr. Vaibhav Trivedi</li>
         </ul>
     </div>
 </section>
@@ -28,24 +28,17 @@
             <div class="image-column col-lg-5 col-md-12 col-sm-12">
                 <div class="inner-column doctor-profile">
                     <div class="image doctor-img">
-                        <img src="{{ asset('resources/assets/all-doctors/dr-satyavan-sharma.jpg') }}" alt="" />
+                        <img src="{{ asset('resources/assets/all-doctors/m-doctor.png') }}" alt="" />
                         <div class="number-box">
                             <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="" data-caption=""><i class="ripple"></i><i class="icon fa-solid fa-play fa-fw"></i>
                         </a> -->
-                            Cardiologist
+                        Nuclear Medicine, Molecular Imaging & Radionuclide Therapy
                         </div>
 
-                        <h3 class="mt-4 text-center">Dr. Satyavan Sharma</h3>
+                        <h3 class="mt-4 text-center">Dr. Vaibhav Trivedi</h3>
 
                         <!-- Book Appointment-->
-                        <!-- <div class="specialist-one_button text-center">
-                            <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one " data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">
-                                <span class="btn-wrap">
-                                    <span class="text-one font-b">Book Appointment</span>
-                                    <span class="text-two font-b">Book Appointment</span>
-                                </span>
-                            </a>
-                        </div> -->
+                       
                         <div class="specialist-one_button text-center">
                             <button type="button" class="btn btn-primary theme-btn btn-style-one" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">
                                 <span class="btn-wrap">
@@ -161,25 +154,26 @@
                                     <tbody>
                                         <tr>
                                             <th>Speciality</th>
-                                            <td><strong>Cardiologist</strong></td>
+                                            <td><strong>Nuclear Medicine, Molecular Imaging & Radionuclide Therapy</strong></td>
                                         </tr>
                                         <tr>
                                             <th>Qualifications</th>
-                                            <td><strong>MD, D.M (Cardiology), MNAMS</strong></td>
+                                            <td><strong>MBBS, MD, MCANM</strong></td>
                                         </tr>
                                         <tr>
-                                            <th>Extn. No.</th>
-                                            <td><strong>347</strong></td>
+                                            <th>Passing Insitute </th>
+                                            <td><strong>MBBS & MD from AIIMS, New Delhi, MCANM (Canada)</strong></td>
                                         </tr>
                                         <tr>
-                                            <th>Fellowships</th>
-                                            <td><strong>FACC, FESC, FAMS, FSCAI</strong></td>
+                                            <th>Expertiese</th>
+                                            <td><strong>Well experienced nuclear medicine physician expertise in various PET imaging, SPECT imaging, Nuclear cardiology, Radionuclide Therapy like radioiodine therapy, Lutetium Therapy, actenium therapy, alpha therapy, Beta therapy, Prostate PSMA, neuroendocrine tumors PRRT, Radiation synovectomy, Hyperthyroidism, thyroid cancers, bone pain palliation, FAPI imaging and therapy, DOTA imaging and therapy</strong></td>
                                         </tr>
                                         <tr>
-                                            <th>Area Of Interest</th>
-                                            <td><strong>Interventional Cardiology</strong></td>
+                                            <th>Award & Certificates</th>
+                                            <td><strong>NA</strong></td>
                                         </tr>
-                                        <tr>
+                                       
+                                     <!--    <tr>
                                             <th>Articles</th>
                                             <td><strong>90 International</strong></td>
                                         </tr>
@@ -212,7 +206,7 @@
                                         <tr>
                                             <th>Consulting Room</th>
                                             <td><strong>104 (1st Flr. New Wing)</strong></td>
-                                        </tr>
+                                        </tr> -->
 
                                     </tbody>
                                 </table>

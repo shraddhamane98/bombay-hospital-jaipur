@@ -14,55 +14,59 @@
 					<a href="{{ route('home')}}">Home</a>
 				</li>
 				<li class="menu-item-has-children">
-					<a href="">About Us</a>
+					<a href="#">About Us</a>
 					<ul class="sub-menu">
-						<li><a href="">About Hospital</a></li>
+						<!-- <li><a href="">About Hospital</a></li> -->
 						<li><a href="{{ route('founders')}}">Founders</a></li>
-						<li><a href="">History</a></li>
+						<li><a href="{{ route('philosophy')}}">Philosophy</a></li>
+				    <!-- <li><a href="">History</a></li>
 						<li><a href="">Hospital Location</a></li>
 						<li><a href="">Management Board</a></li>
-						<li><a href="">Philosophy</a></li>
-						<li><a href="">Gallery</a></li>
+						<li><a href="">Gallery</a></li> -->
 					</ul>
 				</li>
 				<li class="menu-item-has-children">
 					<a href="">Super Speciality</a>
 					<ul class="sub-menu">
-						<li><a href="">Cardiology</a></li>
-						<li><a href="">Cardiovascular Thoracic Surgery</a></li>
-						<li><a href="">Endocrinology</a></li>
-						<li><a href="">Gastroentrology</a></li>
-						<li><a href="">Nephrology</a></li>
-						<li><a href="">Neurology</a></li>
-						<li><a href="">Oncology</a></li>
-						<li><a href="">Medical Oncology</a></li>
-						<li><a href="">Surgical Oncology</a></li>
-						<li><a href="">Haemato-Oncology</a></li>
-						<li><a href="">Paediatric Oncology</a></li>
-						<li><a href="">Radiation Oncology</a></li>
+						<li><a href="{{ route('cardiology')}}">Cardiology</a></li>
+						<!-- <li><a href="">Cardiovascular Thoracic Surgery</a></li>
+						<li><a href="">Endocrinology</a></li> -->
+						<li><a href="{{ route('gastroenterology')}}">Gastroenterology</a></li>
+						<!-- <li><a href="">Nephrology</a></li> -->
+						<li><a href="{{ route('neurology')}}">Neurology</a></li>
+						<!-- <li><a href="">Oncology</a></li>
+						<li><a href="">Medical Oncology</a></li> -->
+						<li><a href="{{ route('surgical-oncology')}}">Surgical Oncology</a></li>
+						<li><a href="{{ route('haemato-oncology')}}">Haemato-Oncology</a></li>
+						<!-- <li><a href="">Paediatric Oncology</a></li> -->
+						<li><a href="{{ route('radiation-oncology')}}">Radiation Oncology</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children">
 					<a href="">Broad Speciality</a>
 					<ul class="sub-menu">
-						<li><a href="">Critical Care Medicine </a></li>
-						<li><a href="">Dermatology</a></li>
-						<li><a href="">Diabetology</a></li>
-						<li><a href="">ENT & Laryngology</a></li>
-						<li><a href="">General Medicine & Infectious &nbsp;&nbsp;&nbsp;
+						<li><a href="{{ route('critical-care-medicine')}}">Critical Care Medicine </a></li>
+						<!-- <li><a href="">Dermatology</a></li>
+						<li><a href="">Diabetology</a></li> -->
+						<li><a href="{{ route('ENT-&-laryngology')}}">ENT & Laryngology</a></li>
+						<li><a href="{{ route('general-medicine-&-infectious-diseases')}}">General Medicine & Infectious &nbsp;&nbsp;&nbsp;
 								Disease</a></li>
-						<li><a href="">General Surgery</a></li>
-						<li><a href="">Gynaecology & Obstetrics</a></li>
+						<li><a href="{{ route('general-surgery')}}">General Surgery</a></li>
+						<!--<li><a href="">Gynaecology & Obstetrics</a></li>
 						<li><a href="">Ophthalmology</a></li>
-						<li><a href="">Paediatrics</a></li>
-						<li><a href="">Psychiatry</a></li>
-						<li><a href="">Spine Surgery</a></li>
+						<li><a href="">Psychiatry</a></li> -->
+						<li><a href="{{ route('pediatrics')}}">Pediatrics </a></li>
+						<li><a href="{{ route('orthopaedic')}}">Orthopaedics</a></li>
+						<li><a href="{{ route('spine-surgery')}}">Spine Surgery</a></li>
 					</ul>
 				</li>
 				<li class="menu-item-has-children">
 					<a href="">Diagnostics Services</a>
 					<ul class="sub-menu">
-						<li class="menu-item-has-children"><a href="">Radiology</a>
+
+						<li><a href="">Pathology</a></li>
+
+						<!-- <li class="menu-item-has-children"><a href="">Radiology</a>
 							<ul class="sub-menu">
 								<li><a href="">PET-CT</a></li>
 								<li><a href="">MRI/CT</a></li>
@@ -99,10 +103,11 @@
 								<li><a href="">Xray & Mammography</a></li>
 								<li><a href="">2D Echo/ Stress Test/ Holter Monitor</a></li>
 							</ul>
-						</li>
+						</li> -->
 					</ul>
 				</li>
-				<li class="menu-item-has-children">
+
+				<!-- <li class="menu-item-has-children">
 					<a href="">Therapeutic Services</a>
 					<ul class="sub-menu">
 						<li><a href="">Artificial Kidney Unit(Dialysis)</a></li>
@@ -117,7 +122,7 @@
 						<li><a href="">Taparia Institute Of Ophthalmology (TIO)</a></li>
 						<li><a href="">Pain Management</a></li>
 					</ul>
-				</li>
+				</li> -->
 
 				<li class="menu-item-has-children">
 					<a href="#none">In-Patient Guide</a>
@@ -229,15 +234,15 @@
 									<a href="{{ route('home')}}">Home</a>
 								</li>
 								<li class="menu-item-has-children">
-									<a href="">About Us</a>
+									<a href="#">About Us</a>
 									<ul class="sub-menu">
-										<li><a href="">About Hospital</a></li>
+										<!-- <li><a href="">About Hospital</a></li> -->
 										<li><a href="{{ route('founders')}}">Founders</a></li>
-										<li><a href="">History</a></li>
+										<li><a href="{{ route('philosophy')}}">Philosophy</a></li>
+										<!-- <li><a href="">History</a></li>
 										<li><a href="">Hospital Location</a></li>
 										<li><a href="">Management Board</a></li>
-										<li><a href="">Philosophy</a></li>
-										<li><a href="">Gallery</a></li>
+										<li><a href="">Gallery</a></li> -->
 									</ul>
 								</li>
 
@@ -246,45 +251,49 @@
 									<ul class="mega-menu">
 										<li class="b-right"><a href="" class="main-services ">Super Speciality</a>
 											<ul class="ser-col2">
-												<li><a href="">Cardiology</a></li>
-												<li><a href="">Cardiovascular Thoracic Surgery</a></li>
-												<li><a href="">Endocrinology</a></li>
-												<li><a href="">Gastroentrology</a></li>
-												<li><a href="">Nephrology</a></li>
-												<li><a href="">Neurology</a></li>
+												<li><a href="{{ route('cardiology')}}">Cardiology</a></li>
+												<!-- <li><a href="">Cardiovascular Thoracic Surgery</a></li>
+												<li><a href="">Endocrinology</a></li> -->
+												<li><a href="{{ route('gastroenterology')}}">Gastroenterology</a></li>
+												<!-- <li><a href="">Nephrology</a></li> -->
+												<li><a href="{{ route('neurology')}}">Neurology</a></li>
 												<!--  -->
-												<li><a href="">Oncology</a></li>
-												<li><a href="">Medical Oncology</a></li>
-												<li><a href="">Surgical Oncology</a></li>
-												<li><a href="">Haemato-Oncology</a></li>
-												<li><a href="">Paediatric Oncology</a></li>
-												<li><a href="">Radiation Oncology</a></li>
+												<!-- <li><a href="">Oncology</a></li>
+												<li><a href="">Medical Oncology</a></li>-->
+												<li><a href="{{ route('surgical-oncology')}}">Surgical Oncology</a></li>
+												<li><a href="haemato-oncology">Haemato-Oncology</a></li>
+												<!-- <li><a href="">Paediatric Oncology</a></li> -->
+												<li><a href="{{ route('radiation-oncology')}}">Radiation Oncology</a></li>
 											</ul>
 										</li>
 
 										<li class="b-right"><a href="#" class="main-services ">Broad Speciality</a>
 											<ul class="ser-col2">
-												<li><a href="">Critical Care Medicine </a></li>
-												<li><a href="">Dermatology</a></li>
-												<li><a href="">Diabetology</a></li>
-												<li><a href="">ENT & Laryngology</a></li>
-												<li><a href="">General Medicine & Infectious &nbsp;&nbsp;&nbsp;
+												<li><a href="{{ route('critical-care-medicine')}}">Critical Care Medicine </a></li>
+												<!-- <li><a href="">Dermatology</a></li>
+												<li><a href="">Diabetology</a></li> -->
+												<li><a href="{{ route('ENT-&-laryngology')}}">ENT & Laryngology</a></li>
+												<li><a href="general-medicine-&-infectious-diseases">General Medicine & Infectious &nbsp;&nbsp;&nbsp;
 														Disease</a></li>
-												<li><a href="">General Surgery</a></li>
-												<li><a href="">Gynaecology & Obstetrics</a></li>
+												<li><a href="{{ route('general-surgery')}}">General Surgery</a></li>
+												<!--<li><a href="">Gynaecology & Obstetrics</a></li>
 												<li><a href="">Ophthalmology</a></li>
-												<li><a href="">Paediatrics</a></li>
-												<li><a href="">Psychiatry</a></li>
-												<li><a href="">Spine Surgery</a></li>
+												<li><a href="">Psychiatry</a></li> -->
+												<li><a href="{{ route('pediatrics')}}">Pediatrics</a></li>
+												<li><a href="{{ route('orthopaedic')}}">Orthopaedics</a></li>
+												<li><a href="{{ route('spine-surgery')}}">Spine Surgery</a></li>
 
 											</ul>
 										</li>
 
 										<li class="p-0 m-0 two-one">
-												<li><a href="#" class="main-services two-in-one">Diagnostics
-														Services</a>
-													<ul class="ser-col2">
-														<li><a href="" class="main-sub-services2 noicon">Radiology </a>
+										<li><a href="#" class="main-services two-in-one">Diagnostics
+												Services</a>
+
+											<ul class="ser-col2">
+												<li><a href="">Pathology</a></li>
+
+												<!-- <li><a href="" class="main-sub-services2 noicon">Radiology </a>
 														</li>
 														<li><a href="">PET-CT</a></li>
 														<li><a href="">MRI/CT</a></li>
@@ -297,11 +306,11 @@
 														<li><a href="">EMG</a></li>
 														<li><a href="">Voice Clinic & Swallowing Centre</a></li>
 														<li><a href="">PFT</a></li>
-														<li><a href="">Urodynamic Lab</a></li>
-													</ul>
-												</li>
+														<li><a href="">Urodynamic Lab</a></li> -->
+											</ul>
+										</li>
 
-												<li class="b-right"><a href="#"></a>
+										<!-- <li class="b-right"><a href="#"></a>
 													<ul class="pt-4 mt-2">
 														<li><a href=""
 																class="main-sub-services2 noicon ">Pathology</a>
@@ -315,16 +324,15 @@
 														<li><a href="">Transfusion Services</a></li>
 
 
-														<li><a href=""
-																class="main-sub-services2 noicon">Non-Invasive</a></li>
+														<li><a href="" class="main-sub-services2 noicon">Non-Invasive</a></li>
 														<li><a href="">ECG</a></li>
 														<li><a href="">Xray & Mammography</a></li>
 														<li><a href="">2D Echo/ Stress Test/ Holter Monitor</a></li>
 													</ul>
-												</li>
-										</li>
+												</li> -->
+								</li>
 
-										<li><a href="#" class="main-services">Therapeutic Services</a>
+								<!-- <li><a href="#" class="main-services">Therapeutic Services</a>
 											<ul>
 												<li><a href="">Artificial Kidney Unit(Dialysis)</a></li>
 												<li><a href="">Audiology</a></li>
@@ -338,65 +346,65 @@
 												<li><a href="">Taparia Institute Of Ophthalmology (TIO)</a></li>
 												<li><a href="">Pain Management</a></li>
 											</ul>
-										</li>
+										</li> -->
 
-									</ul>
-								</li>
+							</ul>
+							</li>
 
-								<li class="menu-item-has-children">
-									<a href="">In-Patient Guide</a>
-									<ul class="sub-menu">
-										<li class="menu-item-has-children"><a href="">Admission</a>
-											<ul class="sub-menu">
-												<li><a href="">Emergency</a></li>
-												<li><a href="">Routine</a></li>
-											</ul>
-										</li>
-										<li><a href="">Billing</a></li>
-										<li><a href="">Important Tel. Numbers</a></li>
-										<li class="menu-item-has-children"><a href="">Insurance / Mediclaim</a>
-											<ul class="sub-menu">
-												<li><a href="">Emergency</a></li>
-												<li><a href="">Routine</a></li>
-											</ul>
-										</li>
-										<li><a href="">Meals</a></li>
-										<li><a href="">Registration</a></li>
-										<li><a href="">Rooms</a></li>
-										<li><a href="">Visiting Hours</a></li>
-										<li><a href="">Foreign Nationals / NRI</a></li>
-										<li><a href="">Online Payment Gateway</a></li>
-									</ul>
-								</li>
+							<li class="menu-item-has-children">
+								<a href="">In-Patient Guide</a>
+								<ul class="sub-menu">
+									<li class="menu-item-has-children"><a href="">Admission</a>
+										<ul class="sub-menu">
+											<li><a href="">Emergency</a></li>
+											<li><a href="">Routine</a></li>
+										</ul>
+									</li>
+									<li><a href="">Billing</a></li>
+									<li><a href="">Important Tel. Numbers</a></li>
+									<li class="menu-item-has-children"><a href="">Insurance / Mediclaim</a>
+										<ul class="sub-menu">
+											<li><a href="">Emergency</a></li>
+											<li><a href="">Routine</a></li>
+										</ul>
+									</li>
+									<li><a href="">Meals</a></li>
+									<li><a href="">Registration</a></li>
+									<li><a href="">Rooms</a></li>
+									<li><a href="">Visiting Hours</a></li>
+									<li><a href="">Foreign Nationals / NRI</a></li>
+									<li><a href="">Online Payment Gateway</a></li>
+								</ul>
+							</li>
 
 
-								<li class="menu-item-has-children">
-									<a href="">Media</a>
-									<ul class="sub-menu">
-										<li><a href="">Newspaper</a></li>
-										<li><a href="">Videos</a></li>
-									</ul>
-								</li>
+							<li class="menu-item-has-children">
+								<a href="">Media</a>
+								<ul class="sub-menu">
+									<li><a href="">Newspaper</a></li>
+									<li><a href="">Videos</a></li>
+								</ul>
+							</li>
 
-								<li>
-									<a href="">Dept. Spotlight</a>
-								</li>
-								<li>
-									<a href="{{ route('consultants')}}">Consultants</a>
-								</li>
-								<li class="menu-item-has-children">
-									<a href="">Conferences</a>
-									<ul class="sub-menu">
-										<li><a href="">Upcoming Conference</a></li>
-										<li><a href="">Past Conference</a></li>
-									</ul>
-								</li>
-								<li>
-									<a href="">Health Packages</a>
-								</li>
-								<li>
-									<a href="{{ route('contact')}}">Contact</a>
-								</li>
+							<li>
+								<a href="">Dept. Spotlight</a>
+							</li>
+							<li>
+								<a href="{{ route('consultants')}}">Consultants</a>
+							</li>
+							<li class="menu-item-has-children">
+								<a href="">Conferences</a>
+								<ul class="sub-menu">
+									<li><a href="">Upcoming Conference</a></li>
+									<li><a href="">Past Conference</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="">Health Packages</a>
+							</li>
+							<li>
+								<a href="{{ route('contact')}}">Contact</a>
+							</li>
 							</ul>
 						</nav>
 						<button class="vs-menu-toggle d-inline-block d-lg-none text-md-end"><i

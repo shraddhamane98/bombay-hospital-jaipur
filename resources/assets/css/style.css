@@ -7815,13 +7815,29 @@ align-items: center !important;
 
 .department-detail p{
 	line-height:30px;
-	font-size:var(--font-16);
+	font-size:var(--font-18);
 	color:var(--color-three);
 	margin-bottom:var(--margin-bottom-10);
 }
 
+.department-title{
+	font-size: 35px;
+	color: var(--color-two);
+    text-transform: capitalize;
+	padding: 5px;
+	line-height: 60px;
+	padding-left: 15px;
+	text-align: center;
+}
 .department-detail p strong{
 	color:var(--color-two);
+}
+
+.department-img img{
+	border-top-left-radius: 70px;
+	border-top-right-radius: 70px;
+	border-bottom: 10px solid var(--pink1);
+
 }
 
 .department-detail .graph-outer{
@@ -7851,6 +7867,55 @@ align-items: center !important;
 	font-family: 'Font Awesome 6 Free';
 }
 
+@media only screen and (max-width: 479px) {
+    .department-title {
+        font-size: 26px;
+        line-height: 34px;
+		text-align: left;
+    }
+
+	.sidebar-page-container {
+		position: relative;
+		padding: 50px 0px 70px;
+	}
+	.department-img img {
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		border-bottom: 7px solid var(--pink1);
+	}
+	.department-detail h3 {
+		color: var(--color-two);
+		text-transform: capitalize;
+		margin-bottom: var(--margin-bottom-15);
+		font-size: 24px;
+	}
+}
+
+
+@media only screen and (max-width: 900px) and (min-width: 500px)  {
+	.department-title {
+        font-size: 26px;
+        line-height: 37px;
+		text-align: left;
+    }
+
+	.sidebar-page-container {
+		position: relative;
+		padding: 60px 0px 70px;
+	}
+	.department-img img {
+		border-top-left-radius: 20px;
+		border-top-right-radius: 20px;
+		border-bottom: 7px solid var(--pink1);
+	}
+	
+	.department-detail h3 {
+		color: var(--color-two);
+		text-transform: capitalize;
+		margin-bottom: var(--margin-bottom-15);
+		font-size: 24px;
+	}
+}
 /*** 
 
 ====================================================================
@@ -12700,6 +12765,7 @@ padding-top: 20px;
 	position:relative;
 	z-index:1;
 	padding:60px 0px 110px;
+	/* background-image: url(../gallery/bg-philsophy.png); */
 }
 
 .help-section-two .inner-container{

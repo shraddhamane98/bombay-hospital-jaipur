@@ -93,11 +93,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr. Sebastian Marker</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr. Sebastian Marker</a></h5>
                                             <div class="designation">MBBS, MD (Internal Medicine), DNB -Medical Gastroenterology</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -121,11 +121,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Lokesh Kumar Yogi </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Lokesh Kumar Yogi </a></h5>
                                             <div class="designation">MBBS, MS, DFIFA, FIJR, FACS</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -150,11 +150,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr. Satyavan Sharma</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr. Satyavan Sharma</a></h5>
                                             <div class="designation">MD, D.M (Cardiology), MNAMS</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -178,11 +178,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}"> Dr. Vaibhav Trivedi</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}"> Dr. Vaibhav Trivedi</a></h5>
                                             <div class="designation">MBBS, MD, MCANM</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -206,11 +206,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Poonam Nehra</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Poonam Nehra</a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -230,11 +230,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Deepti yadav</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Deepti yadav</a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -254,11 +254,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Ritika Aggarwal </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Ritika Aggarwal </a></h5>
                                             <div class="designation">MBBS,MD, FIPM</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -278,11 +278,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Niraj Kumar Jain </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Niraj Kumar Jain </a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -306,11 +306,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr. Shubham Gupta</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr. Shubham Gupta</a></h5>
                                             <div class="designation">MBBS, MD, DM </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -334,11 +334,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Anand Mohan </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Anand Mohan </a></h5>
                                             <div class="designation">MBBS, MS, MCH, DNB </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -362,11 +362,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Yashpal Singh Rathore</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Yashpal Singh Rathore</a></h5>
                                             <div class="designation">MBBS, MS, MCH, DNB </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -386,11 +386,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Pawan Jain</a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Pawan Jain</a></h5>
                                             <div class="designation">MBBS, MS, Mch Neurosurgery  </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -414,11 +414,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Prateek Koolwal </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Prateek Koolwal </a></h5>
                                             <div class="designation">MBBS, MD (ANAESTHESIA) IDCCM ,FNB( Critical Care Medicine) </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -442,11 +442,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Yatish Singh </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Yatish Singh </a></h5>
                                             <div class="designation">MBBS, MD, Fellowship IAP Neonatology, International Fellowship in Neonatology </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -470,11 +470,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Neharika Kothari </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Neharika Kothari </a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -498,11 +498,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Faisal Qureshi </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Faisal Qureshi </a></h5>
                                             <div class="designation">MD DM </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -526,11 +526,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Manisha Sharma </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Manisha Sharma </a></h5>
                                             <div class="designation">MBBS, MS, DNB, Fellowship in Laryngology, Certified allergy specialist (Bangolore)</div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -553,11 +553,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Garima Sharma </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Garima Sharma </a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -580,11 +580,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Suyash Pandey </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Suyash Pandey </a></h5>
                                             <div class="designation">MD, MBBS </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -607,11 +607,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Shailendra Singh </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Shailendra Singh </a></h5>
                                             <div class="designation">MBBS, MD  </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -634,11 +634,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Amita Choudhary  </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Amita Choudhary  </a></h5>
                                             <div class="designation">MBBS, PGDCC  </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
@@ -663,11 +663,11 @@
                                     </div>
                                     <div class="lower-content">
                                         <div class="content">
-                                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr Gunjan Sharma </a></h5>
+                                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Gunjan Sharma </a></h5>
                                             <div class="designation">MBBS, MD </div>
                                             <!-- check profile-->
                                             <div class="specialist-one_button">
-                                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">View Profile</span>
                                                         <span class="text-two">View Profile</span>
