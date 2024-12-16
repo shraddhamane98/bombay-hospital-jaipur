@@ -1,4 +1,4 @@
-@php($title = "Spine Surgery ")
+@php($title = "Pathology ")
 @section('meta_desc') @endsection
 
 @extends('layouts.default')
@@ -9,10 +9,10 @@
 ============================== -->
 <section class="page-title">
     <div class="auto-container">
-        <h2>Spine Surgery</h2>
+        <h2>Pathology </h2>
         <ul class="bread-crumb clearfix">
             <li><a href="{{ route('home')}}">Home</a></li>
-            <li>Spine Surgery</li>
+            <li>Pathology </li>
         </ul>
     </div>
 </section>
@@ -28,31 +28,30 @@
                 <div class="department-detail">
                     <div class="inner-box auto-container">
 
-                        <div class="row clearfix">
-                            <h1 class="department-title">Spine Surgery at Bombay Hospital, Jaipur</h1>
+                        <div class="row clearfix ">
+                            <h1 class="department-title">Pathology Department at Bombay Hospital, Jaipur</h1>
                             <div class="image department-img">
-                               <img src="{{ asset('/resources/assets/departments-imgs/spine-surgery-dept.jpg') }}" alt="" />
+                                <img src="{{ asset('/resources/assets/departments-imgs/pathology-dept.jpg') }}" alt="" />
                             </div>
 
-                            <p>The Spine Surgery Department at Bombay Hospital, Jaipur, provides a wide range of treatments, from routine to highly complex procedures. The team uses advanced techniques to deliver precise, effective, and minimally invasive care.</p>
+                            <p>Pathology is a medical specialty focused on diagnosing diseases through laboratory analysis of body fluids such as blood, urine, and tissue samples. It utilizes advanced tools from fields like chemistry, microbiology, hematology, molecular pathology, and immunohematology to deliver precise diagnostic outcomes. </p>
 
-                            <h3>Common Procedures</h3>
-                            <ul class="doctor-detail_list-two">
-                                <li><strong>Lumbar and Cervical Discectomies</strong></li>
-                                <li><strong>Complex Spinal Fixation and Spinal Tumor Surgery</strong></li>
-                            </ul>
+                            <p>The <b>Pathology Department at Bombay Hospital, Jaipur</b>, is one of the most advanced and reliable diagnostic centers in the region. Renowned for its accuracy and high-quality reports, the laboratory serves as a trusted resource for both clinicians and patients. It is equipped with state-of-the-art, fully automated systems from globally reputed manufacturers such as Roche, Siemens, Abbott, Sysmex, and Becton Dickinson, minimizing human intervention and significantly reducing the risk of errors.</p>
 
-                            <h3>Advanced Monitoring for Better Outcomes</h3>
-                            <p>Neurophysiological monitoring ensures the safety of spinal cord and nerves during intricate procedures, improving surgical outcomes.</p>
+                            <p>The lab is managed by a team of dedicated and highly skilled technical professionals who are committed to maintaining the highest standards of accuracy and efficiency. A rigorous quality control system is followed to ensure consistent reliability in all test results.</p>
 
-                            <p>Bombay Hospital, Jaipur, combines years of experience with cutting-edge technology to provide world-class spine care.</p>
+                            <p>Operating round the clock, the laboratory is available 24/7, 365 days a year, ensuring patients receive timely and accurate diagnostic services without delay. This unwavering commitment to excellence makes the Pathology Department at Bombay Hospital, Jaipur, a leader in diagnostic healthcare.</p>
+
+
+                           
+
                         </div>
 
                     </div>
                 </div>
             </div>
-        </div>
 
+        </div>
 
         <div class="row clearfix ">
 
@@ -68,11 +67,11 @@
                     </div>
                     <div class="lower-content">
                         <div class="content">
-                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr Yashpal Singh Rathore</a></h5>
-                            <div class="designation">Spine Surgery and Neurosurgery  </div>
+                            <h5><a href="">Dr Garima Sharma  </a></h5>
+                            <div class="designation">Pathology  </div>
                             <!-- check profile-->
                             <div class="specialist-one_button">
-                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
+                                <a href="" class="theme-btn btn-style-one">
                                     <span class="btn-wrap">
                                         <span class="text-one">View Profile</span>
                                         <span class="text-two">View Profile</span>

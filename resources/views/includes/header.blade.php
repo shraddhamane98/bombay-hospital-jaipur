@@ -64,7 +64,7 @@
 					<a href="">Diagnostics Services</a>
 					<ul class="sub-menu">
 
-						<li><a href="">Pathology</a></li>
+						<li><a href="{{ route('pathology')}}">Pathology</a></li>
 
 						<!-- <li class="menu-item-has-children"><a href="">Radiology</a>
 							<ul class="sub-menu">
@@ -152,12 +152,12 @@
 				<li class="menu-item-has-children">
 					<a href="#none">Media</a>
 					<ul class="sub-menu">
-						<li><a href="">Newspaper</a></li>
-						<li><a href="">Videos</a></li>
+						<li><a href="{{ route('newspaper')}}">Newspaper</a></li>
+						<!-- <li><a href="">Videos</a></li> -->
 					</ul>
 				</li>
 				<li>
-					<a href="">Dept. Spotlight</a>
+					<a href="{{ route('spotlight')}}">Dept. Spotlight</a>
 				</li>
 				<li>
 					<a href="{{ route('consultants')}}">Consultants</a>
@@ -165,13 +165,13 @@
 				<li class="menu-item-has-children">
 					<a href="">Conferences</a>
 					<ul class="sub-menu">
-						<li><a href="">Upcoming Conference</a></li>
-						<li><a href="">Past Conference</a></li>
+						<li><a href="{{ route('upcoming-conference')}}">Upcoming Conference</a></li>
+						<!-- <li><a href="">Past Conference</a></li> -->
 					</ul>
 				</li>
-				<li>
+				<!-- <li>
 					<a href="">Health Packages</a>
-				</li>
+				</li> -->
 				<li>
 					<a href="{{ route('contact')}}">Contact Us</a>
 				</li>
@@ -291,7 +291,7 @@
 												Services</a>
 
 											<ul class="ser-col2">
-												<li><a href="">Pathology</a></li>
+												<li><a href="{{ route('pathology')}}">Pathology</a></li>
 
 												<!-- <li><a href="" class="main-sub-services2 noicon">Radiology </a>
 														</li>
@@ -381,13 +381,13 @@
 							<li class="menu-item-has-children">
 								<a href="">Media</a>
 								<ul class="sub-menu">
-									<li><a href="">Newspaper</a></li>
-									<li><a href="">Videos</a></li>
+								     <li><a href="{{ route('newspaper')}}">Newspaper</a></li>
+									<!-- <li><a href="">Videos</a></li> -->
 								</ul>
 							</li>
 
 							<li>
-								<a href="">Dept. Spotlight</a>
+								<a href="{{ route('spotlight')}}">Dept. Spotlight</a>
 							</li>
 							<li>
 								<a href="{{ route('consultants')}}">Consultants</a>
@@ -395,13 +395,13 @@
 							<li class="menu-item-has-children">
 								<a href="">Conferences</a>
 								<ul class="sub-menu">
-									<li><a href="">Upcoming Conference</a></li>
-									<li><a href="">Past Conference</a></li>
+									<li><a href="{{ route('upcoming-conference')}}">Upcoming Conference</a></li>
+									<!-- <li><a href="">Past Conference</a></li> -->
 								</ul>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="">Health Packages</a>
-							</li>
+							</li> -->
 							<li>
 								<a href="{{ route('contact')}}">Contact</a>
 							</li>

@@ -87,6 +87,11 @@ Route::get('orthopaedic', function () {
     return view('departments.orthopaedic');
 })->name('orthopaedic');
 
+Route::get('pathology', function () {
+    return view('departments.pathology');
+})->name('pathology');
+
+
 
 Route::get('general-surgery', function () {
     return view('departments.general-surgery');
@@ -99,6 +104,19 @@ Route::get('surgical-oncology', function () {
 Route::get('philosophy', function () {
     return view('philosophy');
 })->name('philosophy');
+
+Route::get('newspaper', function () {
+    return view('newspaper');
+})->name('newspaper');
+
+Route::get('spotlight', function () {
+    return view('spotlight');
+})->name('spotlight');
+
+Route::get('upcoming-conference', function () {
+    return view('upcoming-conference');
+})->name('upcoming-conference');
+
 
 
 

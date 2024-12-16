@@ -12,10 +12,12 @@
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Stylesheets -->
+<link href="{{ asset('/resources/assets/css/magnific-popup1.css')}}" rel="stylesheet">
 <link href="{{ asset('/resources/assets/css/bootstrap.css')}}" rel="stylesheet">
 <link href="{{ asset('/resources/assets/css/style.css')}}" rel="stylesheet">
 <link href="{{ asset('/resources/assets/css/header.css')}}" rel="stylesheet">
 <link href="{{ asset('/resources/assets/css/responsive.css')}}" rel="stylesheet">
+
 
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
@@ -32,8 +34,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
+<link rel="stylesheet" href="https://unpkg.com/magnific-popup@1.1.0/dist/magnific-popup.css">
+
+
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
 
 
  

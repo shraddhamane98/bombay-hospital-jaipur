@@ -76,11 +76,11 @@
                     </div>
                     <div class="lower-content">
                         <div class="content">
-                            <h5><a href="{{ route('dr-satyavan-sharma')}}">Dr. Sebastian Marker</a></h5>
+                            <h5><a href="{{ route('dr-vaibhav-trivedi')}}">Dr. Sebastian Marker</a></h5>
                             <div class="designation">Medical Gastroenterology </div>
                             <!-- check profile-->
                             <div class="specialist-one_button">
-                                <a href="{{ route('dr-satyavan-sharma')}}" class="theme-btn btn-style-one">
+                                <a href="{{ route('dr-vaibhav-trivedi')}}" class="theme-btn btn-style-one">
                                     <span class="btn-wrap">
                                         <span class="text-one">View Profile</span>
                                         <span class="text-two">View Profile</span>

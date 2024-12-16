@@ -1,5 +1,5 @@
 	<!--Main Footer-->
-	<footer class="main-footer style-two" style="background-image: url({{ asset('/resources/assets/images/background/pattern-18.png)') }}">
+	<footer class="main-footer style-two" >
 		<!-- Vector One -->
 		<!-- <span class="footer-vector_one">
 			<img src="assets/images/resource/footer-vector-1.png" alt="" />
@@ -21,7 +21,7 @@
 							<div class="main-footer_column col-lg-7 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="main-footer_logo">
-										<a href="index.html"><img src="{{ asset('/resources/assets/gallery/bombay-hospital-Jaipur-white.png') }}" alt="" /></a>
+										<a href=""><img src="{{ asset('/resources/assets/gallery/bombay-hospital-Jaipur-white.png') }}" alt="" /></a>
 									</div>
 									<div class="main-footer_text">Bombay Hospital is a tertiary care hospital with all specialities and super
 										specialities under one roof performing entire range of diagnostic, therapeutic and interventional procedures.</div>
@@ -117,7 +117,9 @@
 
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 	<!-- <script src="{{ asset('/resources/assets/js/jquery.js')}}"></script> -->
+	<script src="{{ asset('/resources/assets/js/magnific-popup.min.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/popper.min.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/bootstrap.min.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/jquery.mCustomScrollbar.concat.min.js')}}"></script>
@@ -127,14 +129,25 @@
 	<script src="{{ asset('/resources/assets/js/jquery.paroller.min.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/owl.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/wow.js')}}"></script>
+	<script src="{{ asset('/resources/assets/js/mixitup.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/odometer.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/parallax-scroll.js')}}"></script>
-	<script src="{{ asset('/resources/assets/js/magnific-popup.min.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/nav-tool.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/jquery-ui.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/script.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/color-settings.js')}}"></script>
 	<script src="{{ asset('/resources/assets/js/main.js')}}"></script>
 
+	<link rel="stylesheet" href="https://unpkg.com/magnific-popup@1.1.0/dist/magnific-popup.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/magnific-popup@1.1.0/dist/jquery.magnific-popup.js"></script>
+
+
+
+
 	<!-- video  -->
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+	<!-- Lightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
+
