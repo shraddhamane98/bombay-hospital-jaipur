@@ -2492,6 +2492,7 @@
 	background-color:var(--color-five);
 	background-position:left bottom;
 	background-repeat:no-repeat;
+	background-image: url(../gallery/pattern-6-exp.png);
 }
 
 .question-one_contact-list{
@@ -3013,6 +3014,12 @@
   background-color: var(--main-color);
   border-bottom: 1px solid var(--white-color);
 }
+
+.doctors-time-table tbody tr td{
+	font-size: 16px;
+	font-weight: 400;
+  }
+
 .timing{
 	color: #000;
 	font-size: 15px;
@@ -3027,7 +3034,8 @@
 }
 
 .doctors-time-table tbody tr td:hover{
-  background-color: var(--white-color) !important;
+  /* background-color: var(--white-color) !important; */
+  background-color: #eef5fd !important;
   box-shadow: 0 0 20px rgba(0,0,0,0.05);
   z-index: 9;
 }
@@ -3124,6 +3132,11 @@
   padding: 0 10px;
   text-align: center;
 }
+
+.doc-expertise{
+	background: linear-gradient(127deg, #fff4fa, #ffc6e2);
+}
+
 
 /* News Block Two */
 
@@ -14492,7 +14505,8 @@ padding-top: 20px;
 	overflow:hidden;
 	border-radius:50%;
 	margin:0 auto;
-	border:5px solid #0385e1;
+	border:4px solid #30348b;
+	border-radius: 150px 150px 0px 0px;
 }
 
 .team-block-two .inner-box .image img{

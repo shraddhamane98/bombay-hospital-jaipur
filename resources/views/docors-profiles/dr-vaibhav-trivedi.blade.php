@@ -32,13 +32,13 @@
                         <div class="number-box">
                             <!-- <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-button" data-fancybox="" data-caption=""><i class="ripple"></i><i class="icon fa-solid fa-play fa-fw"></i>
                         </a> -->
-                        Nuclear Medicine, Molecular Imaging & Radionuclide Therapy
+                            Nuclear Medicine, Molecular Imaging & Radionuclide Therapy
                         </div>
 
                         <h3 class="mt-4 text-center">Dr. Vaibhav Trivedi</h3>
 
                         <!-- Book Appointment-->
-                       
+
                         <div class="specialist-one_button text-center">
                             <button type="button" class="btn btn-primary theme-btn btn-style-one" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">
                                 <span class="btn-wrap">
@@ -150,63 +150,24 @@
                                 <!-- Doctors Time Table -->
                                 <table class="doctors-time-table">
 
-
                                     <tbody>
                                         <tr>
                                             <th>Speciality</th>
-                                            <td><strong>Nuclear Medicine, Molecular Imaging & Radionuclide Therapy</strong></td>
+                                            <td>Nuclear Medicine, Molecular Imaging & Radionuclide Therapy</td>
                                         </tr>
                                         <tr>
                                             <th>Qualifications</th>
-                                            <td><strong>MBBS, MD, MCANM</strong></td>
+                                            <td>MBBS, MD, MCANM</td>
                                         </tr>
                                         <tr>
                                             <th>Passing Insitute </th>
-                                            <td><strong>MBBS & MD from AIIMS, New Delhi, MCANM (Canada)</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th>Expertiese</th>
-                                            <td><strong>Well experienced nuclear medicine physician expertise in various PET imaging, SPECT imaging, Nuclear cardiology, Radionuclide Therapy like radioiodine therapy, Lutetium Therapy, actenium therapy, alpha therapy, Beta therapy, Prostate PSMA, neuroendocrine tumors PRRT, Radiation synovectomy, Hyperthyroidism, thyroid cancers, bone pain palliation, FAPI imaging and therapy, DOTA imaging and therapy</strong></td>
+                                            <td>MBBS & MD from AIIMS, New Delhi, MCANM (Canada)</td>
                                         </tr>
                                         <tr>
                                             <th>Award & Certificates</th>
-                                            <td><strong>NA</strong></td>
+                                            <td>NA</td>
                                         </tr>
-                                       
-                                     <!--    <tr>
-                                            <th>Articles</th>
-                                            <td><strong>90 International</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th>Research & Publications</th>
-                                            <td><strong>120 National, Chapters In Book</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th>Experience</th>
-                                            <td><strong>38 Yrs</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th rowspan="2">Contact Details</th>
-                                            <td>
-                                                <strong>E-Mail: <a href="mailto:drsatyavan@hotmail.com">drsatyavan@hotmail.com</a> </strong>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <strong>Contact No.: <a href="tel:022-22054532">022-22054532</a> / <a href="tel:9820122010">9820122010</a></strong>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>Consulting Days & Timings</th>
-                                            <td>
-                                                <strong> Mon, Wed, Fri:</strong> <span class="timing"> 3.30 pm to 7 pm</span><br>
-                                                <strong> Tue, Thu:</strong> <span class="timing"> 5 pm to 7 pm</span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>Consulting Room</th>
-                                            <td><strong>104 (1st Flr. New Wing)</strong></td>
-                                        </tr> -->
+
 
                                     </tbody>
                                 </table>
@@ -220,9 +181,31 @@
             </div>
 
         </div>
+
     </div>
 </section>
 <!-- End Doctors Page Section -->
+
+<section class="question-one pb-5">
+    <div class="auto-container">
+        <div class="question-one-inner_container">
+            <div class="row clearfix">
+                <!-- Title Column -->
+                <div class="question-one_title-column col-lg-12 col-md-12 col-sm-12">
+                    <!-- Sec Title -->
+                    <div class="sec-title mt-0">
+                        <h3 class="sec-title_heading">Expertise : </h3>
+
+                        <div class="sec-title_text">Well experienced nuclear medicine physician expertise in various PET imaging, SPECT imaging, Nuclear cardiology, Radionuclide Therapy like radioiodine therapy, Lutetium Therapy, actenium therapy, alpha therapy, Beta therapy, Prostate PSMA, neuroendocrine tumors PRRT, Radiation synovectomy, Hyperthyroidism, thyroid cancers, bone pain palliation, FAPI imaging and therapy, DOTA imaging and therapy.</div>
+
+                    </div>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

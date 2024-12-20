@@ -82,7 +82,7 @@
                         <div class="row clearfix ">
 
                             <div class="banner-gastroenterology all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Medical Gastroenterology</h4>
+                                <h4 class="mb-0">Gastroenterology</h4>
                             </div>
 
                             <!-- Team Block -->
@@ -110,7 +110,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4" id="orthopaedic">
-                                <h4 class="mb-0">Orthopaedic and Joint Replacement Surgery</h4>
+                                <h4 class="mb-0">Orthopaedics</h4>
                             </div>
 
                             <!-- Team Block -->
@@ -139,7 +139,7 @@
 
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Urology & Andrology </h4>
+                                <h4 class="mb-0">General Surgery </h4>
                             </div>
 
                             <!-- Team Block -->
@@ -167,7 +167,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Nuclear Medicine, Molecular Imaging & Radionuclide Therapy </h4>
+                                <h4 class="mb-0">Radiation Oncology </h4>
                             </div>
 
                             <!-- Team Block -->
@@ -403,7 +403,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Intensivist & Critical Care Physician </h4>
+                                <h4 class="mb-0">General Surgery </h4>
                             </div>
 
                             <!-- Team Block -->
@@ -431,7 +431,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Paediatrician & Neonatology </h4>
+                                <h4 class="mb-0">Paediatrician </h4>
                             </div>
 
                             <!-- Team Block -->
@@ -570,7 +570,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Clinical and Radiation Oncologist  </h4>
+                                <h4 class="mb-0">Radiation Oncology  </h4>
                             </div>
 
                             <div class="team-block-two col-lg-4 col-md-6 col-sm-12">
@@ -597,7 +597,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Immunhaemtology & Transfusion   </h4>
+                                <h4 class="mb-0">Haemato-Oncology</h4>
                             </div>
 
                             <div class="team-block-two col-lg-4 col-md-6 col-sm-12">
@@ -624,7 +624,7 @@
                             </div>
 
                             <div class="banner-Orthopaedic all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Non Invasive Cardiology   </h4>
+                                <h4 class="mb-0">Cardiology </h4>
                             </div>
 
                             <div class="team-block-two col-lg-4 col-md-6 col-sm-12">
@@ -652,7 +652,7 @@
 
 
                             <div class="banner-gastroenterology all-depts p-3 text-center mb-4">
-                                <h4 class="mb-0">Internal Medicine </h4>
+                                <h4 class="mb-0">General Medicine & Infectious Disease </h4>
                             </div>
 
                             <!-- Team Block -->
